@@ -1,0 +1,14 @@
+D:\WPF-APP-Projects\firstsesion\firstsesion\obj\Debug\net8.0\firstsesion.GeneratedMSBuildEditorConfig.editorconfig
+D:\WPF-APP-Projects\firstsesion\firstsesion\obj\Debug\net8.0\firstsesion.AssemblyInfoInputs.cache
+D:\WPF-APP-Projects\firstsesion\firstsesion\obj\Debug\net8.0\firstsesion.AssemblyInfo.cs
+D:\WPF-APP-Projects\firstsesion\firstsesion\obj\Debug\net8.0\firstsesion.csproj.CoreCompileInputs.cache
+D:\WPF-APP-Projects\firstsesion\firstsesion\bin\Debug\net8.0\firstsesion.exe
+D:\WPF-APP-Projects\firstsesion\firstsesion\bin\Debug\net8.0\firstsesion.deps.json
+D:\WPF-APP-Projects\firstsesion\firstsesion\bin\Debug\net8.0\firstsesion.runtimeconfig.json
+D:\WPF-APP-Projects\firstsesion\firstsesion\bin\Debug\net8.0\firstsesion.dll
+D:\WPF-APP-Projects\firstsesion\firstsesion\bin\Debug\net8.0\firstsesion.pdb
+D:\WPF-APP-Projects\firstsesion\firstsesion\obj\Debug\net8.0\firstsesion.dll
+D:\WPF-APP-Projects\firstsesion\firstsesion\obj\Debug\net8.0\refint\firstsesion.dll
+D:\WPF-APP-Projects\firstsesion\firstsesion\obj\Debug\net8.0\firstsesion.pdb
+D:\WPF-APP-Projects\firstsesion\firstsesion\obj\Debug\net8.0\firstsesion.genruntimeconfig.cache
+D:\WPF-APP-Projects\firstsesion\firstsesion\obj\Debug\net8.0\ref\firstsesion.dll
