@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\.net-school-projects-\\LinQ FirstSession\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1A6CD33-C497-485E-A8A7-76ADB480AB65}|LinQ FirstSession\\LinQ FirstSession.csproj|d:\\.net-school-projects-\\linq firstsession\\linq firstsession\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1A6CD33-C497-485E-A8A7-76ADB480AB65}|LinQ FirstSession\\LinQ FirstSession.csproj|solutionrelative:linq firstsession\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1A6CD33-C497-485E-A8A7-76ADB480AB65}|LinQ FirstSession\\LinQ FirstSession.csproj|d:\\.net-school-projects-\\linq firstsession\\linq firstsession\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1A6CD33-C497-485E-A8A7-76ADB480AB65}|LinQ FirstSession\\LinQ FirstSession.csproj|solutionrelative:linq firstsession\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1A6CD33-C497-485E-A8A7-76ADB480AB65}|LinQ FirstSession\\LinQ FirstSession.csproj|d:\\.net-school-projects-\\linq firstsession\\linq firstsession\\athoer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1A6CD33-C497-485E-A8A7-76ADB480AB65}|LinQ FirstSession\\LinQ FirstSession.csproj|solutionrelative:linq firstsession\\athoer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A6CD33-C497-485E-A8A7-76ADB480AB65}|LinQ FirstSession\\LinQ FirstSession.csproj|d:\\.net-school-projects-\\linq firstsession\\linq firstsession\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A6CD33-C497-485E-A8A7-76ADB480AB65}|LinQ FirstSession\\LinQ FirstSession.csproj|solutionrelative:linq firstsession\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,42 +22,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Athoer.cs",
               "DocumentMoniker": "D:\\.net-school-projects-\\LinQ FirstSession\\LinQ FirstSession\\Athoer.cs",
               "RelativeDocumentMoniker": "LinQ FirstSession\\Athoer.cs",
               "ToolTip": "D:\\.net-school-projects-\\LinQ FirstSession\\LinQ FirstSession\\Athoer.cs",
               "RelativeToolTip": "LinQ FirstSession\\Athoer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T11:18:45.162Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\.net-school-projects-\\LinQ FirstSession\\LinQ FirstSession\\Book.cs",
               "RelativeDocumentMoniker": "LinQ FirstSession\\Book.cs",
-              "ToolTip": "D:\\.net-school-projects-\\LinQ FirstSession\\LinQ FirstSession\\Book.cs*",
-              "RelativeToolTip": "LinQ FirstSession\\Book.cs*",
+              "ToolTip": "D:\\.net-school-projects-\\LinQ FirstSession\\LinQ FirstSession\\Book.cs",
+              "RelativeToolTip": "LinQ FirstSession\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T11:17:20.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T11:17:20.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.net-school-projects-\\LinQ FirstSession\\LinQ FirstSession\\Program.cs",
               "RelativeDocumentMoniker": "LinQ FirstSession\\Program.cs",
               "ToolTip": "D:\\.net-school-projects-\\LinQ FirstSession\\LinQ FirstSession\\Program.cs",
               "RelativeToolTip": "LinQ FirstSession\\Program.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAwwHcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAmwMAAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T11:16:52.289Z",
               "EditorCaption": ""

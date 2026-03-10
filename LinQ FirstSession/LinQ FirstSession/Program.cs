@@ -86,43 +86,125 @@ namespace LinQ_FirstSession
             //Console.WriteLine("\nTotal number of books: " + count);
 
             //Intersect
-            var Intersect = books.Select(b => b.AuthorID).Intersect(athoers.Select(a => a.ID));
+            //var Intersect = books.Select(b => b.AuthorID).Intersect(athoers.Select(a => a.ID));
 
-            Console.WriteLine("\nIntersect of Book Titles and Author Names:");
-            foreach (var item in Intersect)
+            //Console.WriteLine("\nIntersect of Book Titles and Author Names:");
+            //foreach (var item in Intersect)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            ////union
+            //var union = books.Select(b => b.AuthorID).Union(athoers.Select(a => a.ID));
+            //Console.WriteLine("\nUnion of Book Titles and Author Names (Union):");
+            //foreach (var item in union)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            ////except
+            //var except = books.Select(b => b.AuthorID).Except(athoers.Select(a => a.ID));
+            //Console.WriteLine("\nExcept of Book Titles and Author Names (Except):");
+            //foreach (var item in except)
+            //{
+            //    Console.WriteLine(item);
+            //}
+
+            ////group
+            //var res = books.GroupBy(b => b.AuthorID).ToList();
+            //Console.WriteLine("\nGroup Books by AuthorID:");
+            //foreach (var item in res)
+            //{
+            //    Console.WriteLine(item.Key);
+            //    foreach (var item1 in item)
+            //    {
+            //        Console.WriteLine(item1);
+            //    }
+
+            //    Console.WriteLine("-------------------");
+            //}
+
+            //take
+            var take = books.Take(2);
+            Console.WriteLine("\nTake first 2 books:");
+            foreach (var item in take)
             {
                 Console.WriteLine(item);
             }
 
-            //union
-            var union = books.Select(b => b.AuthorID).Union(athoers.Select(a => a.ID));
-            Console.WriteLine("\nUnion of Book Titles and Author Names (Union):");
-            foreach (var item in union)
+            //skip
+            var skip = books.Skip(2);
+            Console.WriteLine("\nSkip first 2 books:");
+            foreach (var item in skip)
             {
                 Console.WriteLine(item);
             }
 
-            //except
-            var except = books.Select(b => b.AuthorID).Except(athoers.Select(a => a.ID));
-            Console.WriteLine("\nExcept of Book Titles and Author Names (Except):");
-            foreach (var item in except)
+            // skip and take
+            var skipAndTake = books.Skip(1).Take(2);
+            Console.WriteLine("\nSkip first book and take next 2 books:");
+            foreach (var item in skipAndTake)
             {
                 Console.WriteLine(item);
             }
 
-            //group
-            var res = books.GroupBy(b => b.AuthorID).ToList();
-            Console.WriteLine("\nGroup Books by AuthorID:");
-            foreach (var item in res)
+            //skip while
+            var skipWhile = books.SkipWhile(b => b.Page < 150);
+            Console.WriteLine("\nSkip books while pages < 150:");
+            foreach (var item in skipWhile)
             {
-                Console.WriteLine(item.Key);
-                foreach (var item1 in item)
+                Console.WriteLine(item);
+            }
+
+            //take while
+            var takeWhile = books.TakeWhile(b => b.Page < 150);
+            Console.WriteLine("\nTake books while pages < 150:");
+            foreach (var item in takeWhile)
+            {
+                Console.WriteLine(item);
+            }
+
+            //join with query syntax
+            var joinQuery =
+                from book in books
+                join author in athoers
+                on book.AuthorID equals author.ID
+                select new { book.Title, author.Name };
+
+            Console.WriteLine("Join Result:");
+            foreach (var item in joinQuery)
+            {
+                Console.WriteLine(item.Title + " - " + item.Name);
+            }
+
+            //join with method syntax
+
+            var joinMethod = books.Join(athoers,
+                b => b.AuthorID,
+                a => a.ID,
+                (b, a) => new { b.Title, a.Name });
+
+            Console.WriteLine("\nJoin with Method Syntax:");
+            foreach (var item in joinMethod)
+            {
+                Console.WriteLine(item.Title + " - " + item.Name);
+            }
+
+           //simple chunk
+            var chunk = books.Chunk(2);
+            Console.WriteLine("\nChunk Books into groups of 2:");
+            foreach (var item in chunk)
+            {
+                Console.WriteLine("Chunk:");
+                foreach (var book in item)
                 {
-                    Console.WriteLine(item1);
+                    Console.WriteLine(book);
                 }
-
                 Console.WriteLine("-------------------");
             }
+
+
+
         }
     }
 }
