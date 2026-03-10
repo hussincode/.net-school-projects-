@@ -12,9 +12,9 @@ namespace LinQ_FirstSession
         public int AuthorID { get; set; }
         public int Page { get; set; }
         
-        public virtual void Tostring()
+        public override string ToString()
         {
-            Console.WriteLine($"Title: {Title}, AuthorID: {AuthorID}, Page: {Page}");
+            return $"Title: {Title}, AuthorID: {AuthorID}, Page: {Page}";
         }
     }
 }

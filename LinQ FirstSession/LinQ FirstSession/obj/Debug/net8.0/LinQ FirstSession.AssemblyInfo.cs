@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinQ FirstSession")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9732b17ba369c6c795d8cb51be306fcd0e416388")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f08d4ac521b13f9d77c6f6a765596129ef837741")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinQ FirstSession")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinQ FirstSession")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
