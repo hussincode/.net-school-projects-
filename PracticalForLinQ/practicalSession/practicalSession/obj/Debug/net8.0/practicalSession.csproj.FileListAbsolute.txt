@@ -1,0 +1,15 @@
+D:\.net-school-projects-\practicalSession\practicalSession\bin\Debug\net8.0\practicalSession.exe
+D:\.net-school-projects-\practicalSession\practicalSession\bin\Debug\net8.0\practicalSession.deps.json
+D:\.net-school-projects-\practicalSession\practicalSession\bin\Debug\net8.0\practicalSession.runtimeconfig.json
+D:\.net-school-projects-\practicalSession\practicalSession\bin\Debug\net8.0\practicalSession.dll
+D:\.net-school-projects-\practicalSession\practicalSession\bin\Debug\net8.0\practicalSession.pdb
+D:\.net-school-projects-\practicalSession\practicalSession\obj\Debug\net8.0\practicalSession.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net-school-projects-\practicalSession\practicalSession\obj\Debug\net8.0\practicalSession.AssemblyInfoInputs.cache
+D:\.net-school-projects-\practicalSession\practicalSession\obj\Debug\net8.0\practicalSession.AssemblyInfo.cs
+D:\.net-school-projects-\practicalSession\practicalSession\obj\Debug\net8.0\practicalSession.csproj.CoreCompileInputs.cache
+D:\.net-school-projects-\practicalSession\practicalSession\obj\Debug\net8.0\practicalSession.sourcelink.json
+D:\.net-school-projects-\practicalSession\practicalSession\obj\Debug\net8.0\practicalSession.dll
+D:\.net-school-projects-\practicalSession\practicalSession\obj\Debug\net8.0\refint\practicalSession.dll
+D:\.net-school-projects-\practicalSession\practicalSession\obj\Debug\net8.0\practicalSession.pdb
+D:\.net-school-projects-\practicalSession\practicalSession\obj\Debug\net8.0\practicalSession.genruntimeconfig.cache
+D:\.net-school-projects-\practicalSession\practicalSession\obj\Debug\net8.0\ref\practicalSession.dll
