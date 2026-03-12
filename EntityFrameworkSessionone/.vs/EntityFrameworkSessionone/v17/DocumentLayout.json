@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "EntityFrameworkSessionone\\Models\\DBContext.cs",
               "ToolTip": "D:\\.net-school-projects-\\EntityFrameworkSessionone\\EntityFrameworkSessionone\\Models\\DBContext.cs",
               "RelativeToolTip": "EntityFrameworkSessionone\\Models\\DBContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA4AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-12T08:52:01.123Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "EntityFrameworkSessionone\\Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T08:51:26.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T08:51:26.887Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "EntityFrameworkSessionone\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T08:51:01.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T08:51:01.165Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "EntityFrameworkSessionone\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-12T08:47:35.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-12T08:47:35.158Z"
             }
           ]
         }
