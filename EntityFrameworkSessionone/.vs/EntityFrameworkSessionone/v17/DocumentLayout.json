@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net-school-projects-\\EntityFrameworkSessionone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83975774-625C-46A7-9ED7-00A4EA52F42B}|EntityFrameworkSessionone\\EntityFrameworkSessionone.csproj|d:\\.net-school-projects-\\entityframeworksessionone\\entityframeworksessionone\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83975774-625C-46A7-9ED7-00A4EA52F42B}|EntityFrameworkSessionone\\EntityFrameworkSessionone.csproj|solutionrelative:entityframeworksessionone\\models\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83975774-625C-46A7-9ED7-00A4EA52F42B}|EntityFrameworkSessionone\\EntityFrameworkSessionone.csproj|d:\\.net-school-projects-\\entityframeworksessionone\\entityframeworksessionone\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83975774-625C-46A7-9ED7-00A4EA52F42B}|EntityFrameworkSessionone\\EntityFrameworkSessionone.csproj|solutionrelative:entityframeworksessionone\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83975774-625C-46A7-9ED7-00A4EA52F42B}|EntityFrameworkSessionone\\EntityFrameworkSessionone.csproj|d:\\.net-school-projects-\\entityframeworksessionone\\entityframeworksessionone\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83975774-625C-46A7-9ED7-00A4EA52F42B}|EntityFrameworkSessionone\\EntityFrameworkSessionone.csproj|solutionrelative:entityframeworksessionone\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83975774-625C-46A7-9ED7-00A4EA52F42B}|EntityFrameworkSessionone\\EntityFrameworkSessionone.csproj|d:\\.net-school-projects-\\entityframeworksessionone\\entityframeworksessionone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83975774-625C-46A7-9ED7-00A4EA52F42B}|EntityFrameworkSessionone\\EntityFrameworkSessionone.csproj|solutionrelative:entityframeworksessionone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\EntityFrameworkSessionone\\EntityFrameworkSessionone\\Models\\DBContext.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkSessionone\\Models\\DBContext.cs",
+              "ToolTip": "D:\\.net-school-projects-\\EntityFrameworkSessionone\\EntityFrameworkSessionone\\Models\\DBContext.cs",
+              "RelativeToolTip": "EntityFrameworkSessionone\\Models\\DBContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T08:52:01.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\EntityFrameworkSessionone\\EntityFrameworkSessionone\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkSessionone\\Models\\Course.cs",
+              "ToolTip": "D:\\.net-school-projects-\\EntityFrameworkSessionone\\EntityFrameworkSessionone\\Models\\Course.cs",
+              "RelativeToolTip": "EntityFrameworkSessionone\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T08:51:26.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\EntityFrameworkSessionone\\EntityFrameworkSessionone\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkSessionone\\Models\\Student.cs",
+              "ToolTip": "D:\\.net-school-projects-\\EntityFrameworkSessionone\\EntityFrameworkSessionone\\Models\\Student.cs",
+              "RelativeToolTip": "EntityFrameworkSessionone\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T08:51:01.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\EntityFrameworkSessionone\\EntityFrameworkSessionone\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkSessionone\\Program.cs",
+              "ToolTip": "D:\\.net-school-projects-\\EntityFrameworkSessionone\\EntityFrameworkSessionone\\Program.cs",
+              "RelativeToolTip": "EntityFrameworkSessionone\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T08:47:35.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
