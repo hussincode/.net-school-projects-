@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "firstsesion-controlar-model", "firstsesion-controlar-model\firstsesion-controlar-model.csproj", "{B1DC7195-20DD-4C1B-B8C3-6CEA7F4CC4D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1DC7195-20DD-4C1B-B8C3-6CEA7F4CC4D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1DC7195-20DD-4C1B-B8C3-6CEA7F4CC4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1DC7195-20DD-4C1B-B8C3-6CEA7F4CC4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1DC7195-20DD-4C1B-B8C3-6CEA7F4CC4D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86ED99F6-02B6-48A6-A2D7-96CC36206F08}
+	EndGlobalSection
+EndGlobal
