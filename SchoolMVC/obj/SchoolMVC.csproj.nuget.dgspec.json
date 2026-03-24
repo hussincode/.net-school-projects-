@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MVC-Projects\\SchoolMVC\\SchoolMVC.csproj": {}
+    "D:\\.net-school-projects-\\SchoolMVC\\SchoolMVC.csproj": {}
   },
   "projects": {
-    "D:\\MVC-Projects\\SchoolMVC\\SchoolMVC.csproj": {
+    "D:\\.net-school-projects-\\SchoolMVC\\SchoolMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MVC-Projects\\SchoolMVC\\SchoolMVC.csproj",
+        "projectUniqueName": "D:\\.net-school-projects-\\SchoolMVC\\SchoolMVC.csproj",
         "projectName": "SchoolMVC",
-        "projectPath": "D:\\MVC-Projects\\SchoolMVC\\SchoolMVC.csproj",
+        "projectPath": "D:\\.net-school-projects-\\SchoolMVC\\SchoolMVC.csproj",
         "packagesPath": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\.nuget\\packages\\",
-        "outputPath": "D:\\MVC-Projects\\SchoolMVC\\obj\\",
+        "outputPath": "D:\\.net-school-projects-\\SchoolMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

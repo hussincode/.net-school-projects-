@@ -1,0 +1,10 @@
+﻿@model Clinc_Mang.Models.Patient
+@{
+}
+
+<h1>Patient Details</h1>
+<form asp-action="Add" method="post">
+    <input asp-for="Name" placeholder="Patient Name" />
+    <input asp-for="Age" placeholder="Patient Age" />
+    <button type="submit">Save</button>
+</form>

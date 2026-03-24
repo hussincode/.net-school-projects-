@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NDe3m3OESgs=",
+  "dgSpecHash": "I5krsW0xF3U=",
   "success": true,
-  "projectFilePath": "D:\\MVC-Projects\\SchoolMVC\\SchoolMVC.csproj",
+  "projectFilePath": "D:\\.net-school-projects-\\SchoolMVC\\SchoolMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
