@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Clinc Mang")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e675be7eead4077e1a28049c0e23dd053216c1de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad9d751f8d58628b471df26107b23d437014a930")]
 [assembly: System.Reflection.AssemblyProductAttribute("Clinc Mang")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Clinc Mang")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

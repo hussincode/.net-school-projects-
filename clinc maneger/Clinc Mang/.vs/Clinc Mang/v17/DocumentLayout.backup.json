@@ -1,54 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\.net-school-projects-\\Clinc Mang\\",
+  "WorkspaceRootPath": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc mang\\clinc mang\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|solutionrelative:clinc mang\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc mang\\clinc mang\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|solutionrelative:clinc mang\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc mang\\clinc mang\\views\\doctor\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|solutionrelative:clinc mang\\views\\doctor\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc mang\\clinc mang\\views\\patient\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|solutionrelative:clinc mang\\views\\patient\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc mang\\clinc mang\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|solutionrelative:clinc mang\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc mang\\clinc mang\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc maneger\\clinc mang\\clinc mang\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|solutionrelative:clinc mang\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc mang\\clinc mang\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|solutionrelative:clinc mang\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc maneger\\clinc mang\\clinc mang\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|solutionrelative:clinc mang\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc mang\\clinc mang\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc maneger\\clinc mang\\clinc mang\\migrations\\20260324074321_uploadedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|solutionrelative:clinc mang\\migrations\\20260324074321_uploadedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc maneger\\clinc mang\\clinc mang\\views\\patient\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|solutionrelative:clinc mang\\views\\patient\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc maneger\\clinc mang\\clinc mang\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|solutionrelative:clinc mang\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc maneger\\clinc mang\\clinc mang\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|solutionrelative:clinc mang\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc mang\\clinc mang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc maneger\\clinc mang\\clinc mang\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|solutionrelative:clinc mang\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc maneger\\clinc mang\\clinc mang\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|solutionrelative:clinc mang\\views\\doctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc maneger\\clinc mang\\clinc mang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|solutionrelative:clinc mang\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc mang\\clinc mang\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc maneger\\clinc mang\\clinc mang\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|solutionrelative:clinc mang\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc mang\\clinc mang\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc maneger\\clinc mang\\clinc mang\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|solutionrelative:clinc mang\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Migrations\\20260324074321_Uploadedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Clinc Mang\\Migrations\\20260324074321_Uploadedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|d:\\.net-school-projects-\\clinc maneger\\clinc mang\\clinc mang\\views\\doctor\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{527E13DD-72CD-4E59-B4A8-A93113AF2B2C}|Clinc Mang\\Clinc Mang.csproj|solutionrelative:clinc mang\\views\\doctor\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,17 +58,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 285,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Views\\patient\\Index.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Views\\patient\\Index.cshtml",
               "RelativeDocumentMoniker": "Clinc Mang\\Views\\patient\\Index.cshtml",
-              "ToolTip": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Views\\patient\\Index.cshtml",
-              "RelativeToolTip": "Clinc Mang\\Views\\patient\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "ToolTip": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Views\\patient\\Index.cshtml*",
+              "RelativeToolTip": "Clinc Mang\\Views\\patient\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-24T10:12:39.496Z",
               "EditorCaption": ""
@@ -77,9 +77,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Add.cshtml",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Views\\patient\\Add.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Views\\patient\\Add.cshtml",
               "RelativeDocumentMoniker": "Clinc Mang\\Views\\patient\\Add.cshtml",
-              "ToolTip": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Views\\patient\\Add.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Views\\patient\\Add.cshtml",
               "RelativeToolTip": "Clinc Mang\\Views\\patient\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -90,9 +90,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "PatientController.cs",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Controllers\\PatientController.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Controllers\\PatientController.cs",
               "RelativeDocumentMoniker": "Clinc Mang\\Controllers\\PatientController.cs",
-              "ToolTip": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Controllers\\PatientController.cs",
+              "ToolTip": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Controllers\\PatientController.cs",
               "RelativeToolTip": "Clinc Mang\\Controllers\\PatientController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,11 +101,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Views\\doctor\\Index.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Views\\doctor\\Index.cshtml",
               "RelativeDocumentMoniker": "Clinc Mang\\Views\\doctor\\Index.cshtml",
-              "ToolTip": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Views\\doctor\\Index.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Views\\doctor\\Index.cshtml",
               "RelativeToolTip": "Clinc Mang\\Views\\doctor\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -116,9 +116,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\appsettings.json",
+              "DocumentMoniker": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\appsettings.json",
               "RelativeDocumentMoniker": "Clinc Mang\\appsettings.json",
-              "ToolTip": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\appsettings.json",
+              "ToolTip": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\appsettings.json",
               "RelativeToolTip": "Clinc Mang\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -127,11 +127,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "Add.cshtml",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Views\\doctor\\Add.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Views\\doctor\\Add.cshtml",
               "RelativeDocumentMoniker": "Clinc Mang\\Views\\doctor\\Add.cshtml",
-              "ToolTip": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Views\\doctor\\Add.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Views\\doctor\\Add.cshtml",
               "RelativeToolTip": "Clinc Mang\\Views\\doctor\\Add.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -140,24 +140,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "doctorController.cs",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Controllers\\doctorController.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Controllers\\doctorController.cs",
               "RelativeDocumentMoniker": "Clinc Mang\\Controllers\\doctorController.cs",
-              "ToolTip": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Controllers\\doctorController.cs",
+              "ToolTip": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Controllers\\doctorController.cs",
               "RelativeToolTip": "Clinc Mang\\Controllers\\doctorController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-24T07:46:43.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "20260324074321_Uploadedata.cs",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Migrations\\20260324074321_Uploadedata.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Migrations\\20260324074321_Uploadedata.cs",
               "RelativeDocumentMoniker": "Clinc Mang\\Migrations\\20260324074321_Uploadedata.cs",
-              "ToolTip": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Migrations\\20260324074321_Uploadedata.cs",
+              "ToolTip": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Migrations\\20260324074321_Uploadedata.cs",
               "RelativeToolTip": "Clinc Mang\\Migrations\\20260324074321_Uploadedata.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -166,13 +166,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "APPDBcontext.cs",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Models\\APPDBcontext.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Models\\APPDBcontext.cs",
               "RelativeDocumentMoniker": "Clinc Mang\\Models\\APPDBcontext.cs",
-              "ToolTip": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Models\\APPDBcontext.cs",
+              "ToolTip": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Models\\APPDBcontext.cs",
               "RelativeToolTip": "Clinc Mang\\Models\\APPDBcontext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-24T07:32:53.376Z",
               "EditorCaption": ""
@@ -181,9 +181,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Appointment.cs",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Models\\Appointment.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "Clinc Mang\\Models\\Appointment.cs",
-              "ToolTip": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Models\\Appointment.cs",
+              "ToolTip": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Models\\Appointment.cs",
               "RelativeToolTip": "Clinc Mang\\Models\\Appointment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -194,9 +194,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Patient.cs",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Models\\Patient.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Models\\Patient.cs",
               "RelativeDocumentMoniker": "Clinc Mang\\Models\\Patient.cs",
-              "ToolTip": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Models\\Patient.cs",
+              "ToolTip": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Models\\Patient.cs",
               "RelativeToolTip": "Clinc Mang\\Models\\Patient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -207,9 +207,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Doctor.cs",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Models\\Doctor.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Models\\Doctor.cs",
               "RelativeDocumentMoniker": "Clinc Mang\\Models\\Doctor.cs",
-              "ToolTip": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Models\\Doctor.cs",
+              "ToolTip": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Models\\Doctor.cs",
               "RelativeToolTip": "Clinc Mang\\Models\\Doctor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

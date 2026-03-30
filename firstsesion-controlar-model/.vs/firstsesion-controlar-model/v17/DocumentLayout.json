@@ -15,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{B1DC7195-20DD-4C1B-B8C3-6CEA7F4CC4D9}|firstsesion-controlar-model\\firstsesion-controlar-model.csproj|solutionrelative:firstsesion-controlar-model\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net-school-projects-\\firstsesion-controlar-model\\firstsesion-controlar-model\\Migrations\\20260316113922_firstM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:firstsesion-controlar-model\\Migrations\\20260316113922_firstM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1DC7195-20DD-4C1B-B8C3-6CEA7F4CC4D9}|firstsesion-controlar-model\\firstsesion-controlar-model.csproj|d:\\.net-school-projects-\\firstsesion-controlar-model\\firstsesion-controlar-model\\migrations\\20260316113922_firstm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1DC7195-20DD-4C1B-B8C3-6CEA7F4CC4D9}|firstsesion-controlar-model\\firstsesion-controlar-model.csproj|solutionrelative:firstsesion-controlar-model\\migrations\\20260316113922_firstm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,8 +51,7 @@
               "RelativeToolTip": "firstsesion-controlar-model\\Controllers\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T11:41:37.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T11:41:37.691Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "firstsesion-controlar-model\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T11:39:39.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T11:39:39.428Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "firstsesion-controlar-model\\Migrations\\20260316113922_firstM.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T11:39:22.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T11:39:22.471Z"
             }
           ]
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Clinc Mang.csproj": {}
+    "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Clinc Mang.csproj": {}
   },
   "projects": {
-    "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Clinc Mang.csproj": {
+    "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Clinc Mang.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Clinc Mang.csproj",
+        "projectUniqueName": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Clinc Mang.csproj",
         "projectName": "Clinc Mang",
-        "projectPath": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\Clinc Mang.csproj",
+        "projectPath": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\Clinc Mang.csproj",
         "packagesPath": "C:\\Users\\hussien.hesham.ELSEWEDY-SCHOOL\\.nuget\\packages\\",
-        "outputPath": "D:\\.net-school-projects-\\Clinc Mang\\Clinc Mang\\obj\\",
+        "outputPath": "D:\\.net-school-projects-\\clinc maneger\\Clinc Mang\\Clinc Mang\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -56,12 +56,6 @@
               "version": "[9.0.1, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[9.0.1, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.1, )"
             },
