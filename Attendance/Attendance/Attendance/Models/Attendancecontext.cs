@@ -4,16 +4,17 @@ namespace Attendance.Models
 {
     public class Attendancecontext : DbContext
     {
+        
         public Attendancecontext(DbContextOptions<Attendancecontext> options) : base(options)
         {
         }
         public DbSet<Student> Students { get; set; }
         public DbSet<Subject> Subjects { get; set; }
-        public DbSet<Attendance> Attendances { get; set; }
+        public DbSet<Attendancem> Attendances { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Attendance>()
+            modelBuilder.Entity<Attendancem>()
                 .Property(a => a.date)
                 .HasConversion(
                     d => d.ToDateTime(TimeOnly.MinValue),   // Save as DateTime

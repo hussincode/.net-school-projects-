@@ -1,5 +1,6 @@
 using Attendance.Models;
 using Microsoft.EntityFrameworkCore;
+using System.Runtime.InteropServices.JavaScript;
 
 namespace Attendance
 {
@@ -11,7 +12,9 @@ namespace Attendance
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-
+            builder.Services.AddScoped<IAttendance, Attendancerepo>();
+            builder.Services.AddScoped<Istudent, StudentRepo>();
+            builder.Services.AddScoped<Isubject, SubjecRepo>();
             builder.Services.AddDbContext<Attendancecontext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 

@@ -7,6 +7,6 @@ namespace Attendance.Models
         [Key]
         public int SubjectId { get; set; }
         public string Name { get; set; }
-        public List<Attendance> Attendances { get; set; }
+        public List<Attendancem> Attendances { get; set; }
     }
 }

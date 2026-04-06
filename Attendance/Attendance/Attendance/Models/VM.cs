@@ -4,6 +4,7 @@ namespace Attendance.Models
 {
     public class VM
     {
+        public int Id { get; set; }
         public Student Students { get; set; }
         public List<Student> StudentList { get; set; }
         public Subject Subjects { get; set; }

@@ -1,9 +1,11 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Attendance.Models
 {
-    public class Attendance
+    public class Attendancem    
     {
+        [Key] 
         public int AttendanceId { get; set; }
         public DateOnly date { get; set; }
         public string Status { get; set; }
