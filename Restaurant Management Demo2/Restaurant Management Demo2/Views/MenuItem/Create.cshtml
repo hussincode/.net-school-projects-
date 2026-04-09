@@ -1,0 +1,24 @@
+﻿@using Restaurant_Management_Demo2.Models.Vewmodel
+@model MenuItemCreateViewModel
+
+<form asp-action="Create" method="post">
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span>
+    </div>
+
+    <div>
+        <label asp-for="Price"></label>
+        <input asp-for="Price" />
+        <span asp-validation-for="Price"></span>
+    </div>
+
+    <div>
+        <label>Category</label>
+        @* <select asp-for="CategoryId" asp-items="@(new SelectList(Model.Categories, "CategoryId", "CategoryName"))"></select>
+        <span asp-validation-for="CategoryId"></span> *@
+    </div>
+
+    <button type="submit">Save</button>
+</form>

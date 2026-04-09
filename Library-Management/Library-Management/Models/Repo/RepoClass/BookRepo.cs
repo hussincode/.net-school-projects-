@@ -32,9 +32,14 @@ namespace Library_Management.Models.Repo.RepoClass
 
         public void UpdateBook(Book book)
         {
-            
-            _context.Books.Update(book);
-            _context.SaveChanges();
+            var existingBook = _context.Books.FirstOrDefault(x => x.bookId == book.bookId);
+            if (existingBook != null)
+            {
+                existingBook.title = book.title;
+                existingBook.author = book.author;
+                existingBook.AvailableCopies = book.AvailableCopies;
+                _context.SaveChanges();
+            }
         }
         public void DeleteBook(int id)
         {

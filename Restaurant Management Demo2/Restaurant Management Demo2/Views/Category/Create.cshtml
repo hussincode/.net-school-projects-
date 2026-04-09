@@ -1,0 +1,10 @@
+﻿@model Category
+
+<form asp-action="Create" method="post">
+    <div>
+        <label asp-for="name"></label>
+        <input asp-for="name" />
+        <span asp-validation-for="name"></span>
+    </div>
+    <button type="submit">Save</button>
+</form>

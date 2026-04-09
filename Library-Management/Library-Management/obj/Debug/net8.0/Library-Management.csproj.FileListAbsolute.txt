@@ -278,3 +278,11 @@ D:\.net-school-projects-\Library-Management\Library-Management\obj\Debug\net8.0\
 D:\.net-school-projects-\Library-Management\Library-Management\obj\Debug\net8.0\Library-Management.pdb
 D:\.net-school-projects-\Library-Management\Library-Management\obj\Debug\net8.0\Library-Management.genruntimeconfig.cache
 D:\.net-school-projects-\Library-Management\Library-Management\obj\Debug\net8.0\ref\Library-Management.dll
+D:\.net-school-projects-\Library-Management\Library-Management\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\.net-school-projects-\Library-Management\Library-Management\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\.net-school-projects-\Library-Management\Library-Management\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\.net-school-projects-\Library-Management\Library-Management\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\.net-school-projects-\Library-Management\Library-Management\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\.net-school-projects-\Library-Management\Library-Management\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\.net-school-projects-\Library-Management\Library-Management\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net-school-projects-\Library-Management\Library-Management\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
