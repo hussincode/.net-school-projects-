@@ -3,12 +3,152 @@
   "WorkspaceRootPath": "D:\\.net-school-projects-\\Hotel Management System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Migrations\\20260414093220_uu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Migrations\\20260414093220_uu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\repo\\repoclass\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\repo\\repoclass\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\views\\booking\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\views\\booking\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\repo\\repoclass\\bookingrecordrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\repo\\repoclass\\bookingrecordrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\models\\vm\\bookingrecordsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\vm\\bookingrecordsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\views\\servicetypes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\views\\servicetypes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\controllers\\servicetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\controllers\\servicetypescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\views\\servicetypes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\views\\servicetypes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\views\\servicetypes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\views\\servicetypes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\views\\servicetypes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\views\\servicetypes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\views\\booking\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\views\\booking\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\views\\room\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\views\\room\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\views\\room\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\views\\room\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\views\\room\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\views\\room\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\views\\room\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\views\\room\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\repo\\repoclass\\servicetypesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\repo\\repoclass\\servicetypesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\repo\\repoclass\\roomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\repo\\repoclass\\roomrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\repo\\repointerface\\ibookingrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\repo\\repointerface\\ibookingrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\repo\\repointerface\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\repo\\repointerface\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\repo\\repointerface\\irooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\repo\\repointerface\\irooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\repo\\repointerface\\iservicetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\repo\\repointerface\\iservicetypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\models\\vm\\servicetypesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\vm\\servicetypesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\models\\vm\\roomvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\vm\\roomvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\models\\bookingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\bookingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\models\\servicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\servicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -19,24 +159,8 @@
       "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\models\\vm\\roomvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\vm\\roomvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\models\\servicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\servicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\models\\bookingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\models\\bookingrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|d:\\.net-school-projects-\\hotel management system\\hotel management system\\migrations\\20260414093220_uu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9EB1A2D-A5F6-48EE-AFF7-B1C9B5331691}|Hotel Management System\\Hotel Management System.csproj|solutionrelative:hotel management system\\migrations\\20260414093220_uu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +170,478 @@
       "DocumentGroups": [
         {
           "DockedWidth": 285,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\Booking\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Hotel Management System\\Views\\Booking\\Edit.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\Booking\\Edit.cshtml",
+              "RelativeToolTip": "Hotel Management System\\Views\\Booking\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvyAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T12:12:28.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hotel Management System\\Views\\Booking\\Index.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "Hotel Management System\\Views\\Booking\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T12:11:56.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\ServiceTypes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Hotel Management System\\Views\\ServiceTypes\\Delete.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\ServiceTypes\\Delete.cshtml",
+              "RelativeToolTip": "Hotel Management System\\Views\\ServiceTypes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T12:16:53.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Program.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Program.cs",
+              "RelativeToolTip": "Hotel Management System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:30:40.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hotel Management System\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Hotel Management System\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T12:07:05.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Hotel Management System\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Hotel Management System\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T12:06:06.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Hotel Management System\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T11:58:53.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Hotel Management System\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T10:44:06.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Repo\\RepoClass\\UserRepo.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Repo\\RepoClass\\UserRepo.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Repo\\RepoClass\\UserRepo.cs",
+              "RelativeToolTip": "Hotel Management System\\Repo\\RepoClass\\UserRepo.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:49:46.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingRecordRepo.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Repo\\RepoClass\\BookingRecordRepo.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Repo\\RepoClass\\BookingRecordRepo.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Repo\\RepoClass\\BookingRecordRepo.cs",
+              "RelativeToolTip": "Hotel Management System\\Repo\\RepoClass\\BookingRecordRepo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T10:39:34.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingRecordsVM.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\VM\\BookingRecordsVM.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Models\\VM\\BookingRecordsVM.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\VM\\BookingRecordsVM.cs",
+              "RelativeToolTip": "Hotel Management System\\Models\\VM\\BookingRecordsVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:41:47.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\Booking\\Create.cshtml",
+              "RelativeDocumentMoniker": "Hotel Management System\\Views\\Booking\\Create.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\Booking\\Create.cshtml",
+              "RelativeToolTip": "Hotel Management System\\Views\\Booking\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T12:12:11.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\ServiceTypes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Hotel Management System\\Views\\ServiceTypes\\Edit.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\ServiceTypes\\Edit.cshtml",
+              "RelativeToolTip": "Hotel Management System\\Views\\ServiceTypes\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T12:16:29.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\ServiceTypes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Hotel Management System\\Views\\ServiceTypes\\Create.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\ServiceTypes\\Create.cshtml",
+              "RelativeToolTip": "Hotel Management System\\Views\\ServiceTypes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T12:13:38.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\ServiceTypes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hotel Management System\\Views\\ServiceTypes\\Index.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\ServiceTypes\\Index.cshtml",
+              "RelativeToolTip": "Hotel Management System\\Views\\ServiceTypes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T12:13:18.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\Booking\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Hotel Management System\\Views\\Booking\\Delete.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\Booking\\Delete.cshtml",
+              "RelativeToolTip": "Hotel Management System\\Views\\Booking\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T12:12:44.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceTypesController.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Controllers\\ServiceTypesController.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Controllers\\ServiceTypesController.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Controllers\\ServiceTypesController.cs",
+              "RelativeToolTip": "Hotel Management System\\Controllers\\ServiceTypesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:03:43.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\Room\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Hotel Management System\\Views\\Room\\Delete.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\Room\\Delete.cshtml",
+              "RelativeToolTip": "Hotel Management System\\Views\\Room\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T12:11:20.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\Room\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Hotel Management System\\Views\\Room\\Edit.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\Room\\Edit.cshtml",
+              "RelativeToolTip": "Hotel Management System\\Views\\Room\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T12:10:55.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\Room\\Create.cshtml",
+              "RelativeDocumentMoniker": "Hotel Management System\\Views\\Room\\Create.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\Room\\Create.cshtml",
+              "RelativeToolTip": "Hotel Management System\\Views\\Room\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T12:10:36.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\Room\\Index.cshtml",
+              "RelativeDocumentMoniker": "Hotel Management System\\Views\\Room\\Index.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\Room\\Index.cshtml",
+              "RelativeToolTip": "Hotel Management System\\Views\\Room\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T12:10:00.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Hotel Management System\\Views\\User\\Delete.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "Hotel Management System\\Views\\User\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T12:08:56.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Hotel Management System\\Views\\User\\Edit.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "Hotel Management System\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T12:08:05.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "Hotel Management System\\Views\\User\\Create.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "Hotel Management System\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-14T12:07:44.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Controllers\\RoomController.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "Hotel Management System\\Controllers\\RoomController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAowFUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T12:02:05.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RoomRepo.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Repo\\RepoClass\\RoomRepo.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Repo\\RepoClass\\RoomRepo.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Repo\\RepoClass\\RoomRepo.cs",
+              "RelativeToolTip": "Hotel Management System\\Repo\\RepoClass\\RoomRepo.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T10:13:44.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IRooms.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Repo\\RepoInterface\\IRooms.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Repo\\RepoInterface\\IRooms.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Repo\\RepoInterface\\IRooms.cs",
+              "RelativeToolTip": "Hotel Management System\\Repo\\RepoInterface\\IRooms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:47:23.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IUsers.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Repo\\RepoInterface\\IUsers.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Repo\\RepoInterface\\IUsers.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Repo\\RepoInterface\\IUsers.cs",
+              "RelativeToolTip": "Hotel Management System\\Repo\\RepoInterface\\IUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:48:56.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBookingRecords.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Repo\\RepoInterface\\IBookingRecords.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Repo\\RepoInterface\\IBookingRecords.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Repo\\RepoInterface\\IBookingRecords.cs",
+              "RelativeToolTip": "Hotel Management System\\Repo\\RepoInterface\\IBookingRecords.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:43:01.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ServiceTypesRepo.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Repo\\RepoClass\\ServiceTypesRepo.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Repo\\RepoClass\\ServiceTypesRepo.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Repo\\RepoClass\\ServiceTypesRepo.cs",
+              "RelativeToolTip": "Hotel Management System\\Repo\\RepoClass\\ServiceTypesRepo.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAuwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T10:29:10.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IServiceTypes.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Repo\\RepoInterface\\IServiceTypes.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Repo\\RepoInterface\\IServiceTypes.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Repo\\RepoInterface\\IServiceTypes.cs",
+              "RelativeToolTip": "Hotel Management System\\Repo\\RepoInterface\\IServiceTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:46:03.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Models\\User.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\User.cs",
+              "RelativeToolTip": "Hotel Management System\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:04:34.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BookingRecord.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\BookingRecord.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Models\\BookingRecord.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\BookingRecord.cs",
+              "RelativeToolTip": "Hotel Management System\\Models\\BookingRecord.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:11:13.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ServiceTypesVM.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\VM\\ServiceTypesVM.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Models\\VM\\ServiceTypesVM.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\VM\\ServiceTypesVM.cs",
+              "RelativeToolTip": "Hotel Management System\\Models\\VM\\ServiceTypesVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:35:08.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Models\\Room.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\Room.cs",
+              "RelativeToolTip": "Hotel Management System\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:07:42.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RoomVM.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\VM\\RoomVM.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Models\\VM\\RoomVM.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\VM\\RoomVM.cs",
+              "RelativeToolTip": "Hotel Management System\\Models\\VM\\RoomVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:25:51.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "20260414093220_uu.cs",
               "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Migrations\\20260414093220_uu.cs",
               "RelativeDocumentMoniker": "Hotel Management System\\Migrations\\20260414093220_uu.cs",
@@ -58,25 +649,11 @@
               "RelativeToolTip": "Hotel Management System\\Migrations\\20260414093220_uu.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T09:32:20.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T09:32:20.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Program.cs",
-              "RelativeDocumentMoniker": "Hotel Management System\\Program.cs",
-              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Program.cs",
-              "RelativeToolTip": "Hotel Management System\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T09:30:40.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 37,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\appsettings.json",
               "RelativeDocumentMoniker": "Hotel Management System\\appsettings.json",
@@ -84,51 +661,11 @@
               "RelativeToolTip": "Hotel Management System\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-14T09:28:06.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T09:28:06.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HotelContext.cs",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\HotelContext.cs",
-              "RelativeDocumentMoniker": "Hotel Management System\\Models\\HotelContext.cs",
-              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\HotelContext.cs",
-              "RelativeToolTip": "Hotel Management System\\Models\\HotelContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T09:26:14.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RoomVM.cs",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\VM\\RoomVM.cs",
-              "RelativeDocumentMoniker": "Hotel Management System\\Models\\VM\\RoomVM.cs",
-              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\VM\\RoomVM.cs",
-              "RelativeToolTip": "Hotel Management System\\Models\\VM\\RoomVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T09:25:51.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BookingRecord.cs",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\BookingRecord.cs",
-              "RelativeDocumentMoniker": "Hotel Management System\\Models\\BookingRecord.cs",
-              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\BookingRecord.cs",
-              "RelativeToolTip": "Hotel Management System\\Models\\BookingRecord.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T09:11:13.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 36,
               "Title": "ServiceType.cs",
               "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\ServiceType.cs",
               "RelativeDocumentMoniker": "Hotel Management System\\Models\\ServiceType.cs",
@@ -136,34 +673,19 @@
               "RelativeToolTip": "Hotel Management System\\Models\\ServiceType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T09:09:53.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T09:09:53.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Room.cs",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\Room.cs",
-              "RelativeDocumentMoniker": "Hotel Management System\\Models\\Room.cs",
-              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\Room.cs",
-              "RelativeToolTip": "Hotel Management System\\Models\\Room.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwA4AAAA5AAAAAAAAAA==",
+              "DocumentIndex": 38,
+              "Title": "HotelContext.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\HotelContext.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Models\\HotelContext.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\HotelContext.cs",
+              "RelativeToolTip": "Hotel Management System\\Models\\HotelContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T09:07:42.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Hotel Management System\\Models\\User.cs",
-              "ToolTip": "D:\\.net-school-projects-\\Hotel Management System\\Hotel Management System\\Models\\User.cs",
-              "RelativeToolTip": "Hotel Management System\\Models\\User.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA4AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T09:04:34.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-14T09:26:14.261Z"
             }
           ]
         }

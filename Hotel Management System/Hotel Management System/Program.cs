@@ -1,4 +1,6 @@
 using Hotel_Management_System.Models;
+using Hotel_Management_System.Repo.RepoClass;
+using Hotel_Management_System.Repo.RepoInterface;
 using Microsoft.EntityFrameworkCore;
 
 namespace Hotel_Management_System
@@ -12,6 +14,11 @@ namespace Hotel_Management_System
             // Add services to the container.
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<HotelContext>(o => o.UseSqlServer(builder.Configuration.GetConnectionString("DB")));
+
+            builder.Services.AddScoped<IUsers, UserRepo>();
+            builder.Services.AddScoped<IRooms, RoomRepo>();
+            builder.Services.AddScoped<IServiceTypes, ServiceTypesRepo>();
+            builder.Services.AddScoped<IBookingRecords, BookingRecordRepo>();
 
             var app = builder.Build();
 

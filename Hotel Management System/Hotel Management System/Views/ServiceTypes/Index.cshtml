@@ -1,0 +1,33 @@
+﻿@model IEnumerable<Hotel_Management_System.Models.ServiceType>
+@{
+    ViewData["Title"] = "Service Types";
+}
+
+<h2>Service Types</h2>
+<a asp-action="Create" class="btn btn-primary">Create New Service Type</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Created By (User)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var service in Model)
+        {
+            <tr>
+                <td>@service.Name</td>
+                <td>@service.Price</td>
+                <td>@service.User?.Name</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@service.ServiceTypeId" class="btn btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@service.ServiceTypeId" class="btn btn-danger"
+                       onclick="return confirm('Are you sure you want to delete this service type?');">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

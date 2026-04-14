@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\.net-school-projects-\\Restaurant Management Demo2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F774F424-903A-49A8-95DD-5574F57A631A}|Restaurant Management Demo2\\Restaurant Management Demo2.csproj|d:\\.net-school-projects-\\restaurant management demo2\\restaurant management demo2\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F774F424-903A-49A8-95DD-5574F57A631A}|Restaurant Management Demo2\\Restaurant Management Demo2.csproj|solutionrelative:restaurant management demo2\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F774F424-903A-49A8-95DD-5574F57A631A}|Restaurant Management Demo2\\Restaurant Management Demo2.csproj|d:\\.net-school-projects-\\restaurant management demo2\\restaurant management demo2\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F774F424-903A-49A8-95DD-5574F57A631A}|Restaurant Management Demo2\\Restaurant Management Demo2.csproj|solutionrelative:restaurant management demo2\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F774F424-903A-49A8-95DD-5574F57A631A}|Restaurant Management Demo2\\Restaurant Management Demo2.csproj|d:\\.net-school-projects-\\restaurant management demo2\\restaurant management demo2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F774F424-903A-49A8-95DD-5574F57A631A}|Restaurant Management Demo2\\Restaurant Management Demo2.csproj|solutionrelative:restaurant management demo2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F774F424-903A-49A8-95DD-5574F57A631A}|Restaurant Management Demo2\\Restaurant Management Demo2.csproj|d:\\.net-school-projects-\\restaurant management demo2\\restaurant management demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F774F424-903A-49A8-95DD-5574F57A631A}|Restaurant Management Demo2\\Restaurant Management Demo2.csproj|solutionrelative:restaurant management demo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,14 +43,6 @@
       "RelativeMoniker": "D:0:0:{F774F424-903A-49A8-95DD-5574F57A631A}|Restaurant Management Demo2\\Restaurant Management Demo2.csproj|solutionrelative:restaurant management demo2\\models\\repo\\repoclas\\orderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F774F424-903A-49A8-95DD-5574F57A631A}|Restaurant Management Demo2\\Restaurant Management Demo2.csproj|d:\\.net-school-projects-\\restaurant management demo2\\restaurant management demo2\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F774F424-903A-49A8-95DD-5574F57A631A}|Restaurant Management Demo2\\Restaurant Management Demo2.csproj|solutionrelative:restaurant management demo2\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F774F424-903A-49A8-95DD-5574F57A631A}|Restaurant Management Demo2\\Restaurant Management Demo2.csproj|d:\\.net-school-projects-\\restaurant management demo2\\restaurant management demo2\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F774F424-903A-49A8-95DD-5574F57A631A}|Restaurant Management Demo2\\Restaurant Management Demo2.csproj|solutionrelative:restaurant management demo2\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F774F424-903A-49A8-95DD-5574F57A631A}|Restaurant Management Demo2\\Restaurant Management Demo2.csproj|d:\\.net-school-projects-\\restaurant management demo2\\restaurant management demo2\\models\\vewmodel\\menuitemcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F774F424-903A-49A8-95DD-5574F57A631A}|Restaurant Management Demo2\\Restaurant Management Demo2.csproj|solutionrelative:restaurant management demo2\\models\\vewmodel\\menuitemcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -61,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F774F424-903A-49A8-95DD-5574F57A631A}|Restaurant Management Demo2\\Restaurant Management Demo2.csproj|d:\\.net-school-projects-\\restaurant management demo2\\restaurant management demo2\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F774F424-903A-49A8-95DD-5574F57A631A}|Restaurant Management Demo2\\Restaurant Management Demo2.csproj|solutionrelative:restaurant management demo2\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F774F424-903A-49A8-95DD-5574F57A631A}|Restaurant Management Demo2\\Restaurant Management Demo2.csproj|d:\\.net-school-projects-\\restaurant management demo2\\restaurant management demo2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F774F424-903A-49A8-95DD-5574F57A631A}|Restaurant Management Demo2\\Restaurant Management Demo2.csproj|solutionrelative:restaurant management demo2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F774F424-903A-49A8-95DD-5574F57A631A}|Restaurant Management Demo2\\Restaurant Management Demo2.csproj|d:\\.net-school-projects-\\restaurant management demo2\\restaurant management demo2\\models\\repo\\repointerface\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -122,45 +122,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MenuItemRepo.cs",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Models\\Repo\\RepoClas\\MenuItemRepo.cs",
-              "RelativeDocumentMoniker": "Restaurant Management Demo2\\Models\\Repo\\RepoClas\\MenuItemRepo.cs",
-              "ToolTip": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Models\\Repo\\RepoClas\\MenuItemRepo.cs",
-              "RelativeToolTip": "Restaurant Management Demo2\\Models\\Repo\\RepoClas\\MenuItemRepo.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T10:49:52.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Views\\MenuItem\\Create.cshtml",
-              "RelativeDocumentMoniker": "Restaurant Management Demo2\\Views\\MenuItem\\Create.cshtml",
-              "ToolTip": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Views\\MenuItem\\Create.cshtml",
-              "RelativeToolTip": "Restaurant Management Demo2\\Views\\MenuItem\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-09T11:20:34.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "MenuItemCreateViewModel.cs",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Models\\Vewmodel\\MenuItemCreateViewModel.cs",
-              "RelativeDocumentMoniker": "Restaurant Management Demo2\\Models\\Vewmodel\\MenuItemCreateViewModel.cs",
-              "ToolTip": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Models\\Vewmodel\\MenuItemCreateViewModel.cs",
-              "RelativeToolTip": "Restaurant Management Demo2\\Models\\Vewmodel\\MenuItemCreateViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T12:21:58.47Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "OrderRepo.cs",
               "DocumentMoniker": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Models\\Repo\\RepoClas\\OrderRepo.cs",
               "RelativeDocumentMoniker": "Restaurant Management Demo2\\Models\\Repo\\RepoClas\\OrderRepo.cs",
@@ -168,12 +130,11 @@
               "RelativeToolTip": "Restaurant Management Demo2\\Models\\Repo\\RepoClas\\OrderRepo.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAYwBEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T11:05:31.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T11:05:31.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Views\\Category\\Create.cshtml",
               "RelativeDocumentMoniker": "Restaurant Management Demo2\\Views\\Category\\Create.cshtml",
@@ -181,12 +142,11 @@
               "RelativeToolTip": "Restaurant Management Demo2\\Views\\Category\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-09T10:20:04.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T10:20:04.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "Restaurant Management Demo2\\Views\\Category\\Index.cshtml",
@@ -194,12 +154,11 @@
               "RelativeToolTip": "Restaurant Management Demo2\\Views\\Category\\Index.cshtml",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-09T10:19:18.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T10:19:18.326Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Views\\MenuItem\\Index.cshtml",
               "RelativeDocumentMoniker": "Restaurant Management Demo2\\Views\\MenuItem\\Index.cshtml",
@@ -207,12 +166,11 @@
               "RelativeToolTip": "Restaurant Management Demo2\\Views\\MenuItem\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-09T11:19:59.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T11:19:59.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Program.cs",
               "RelativeDocumentMoniker": "Restaurant Management Demo2\\Program.cs",
@@ -225,7 +183,82 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Restaurant Management Demo2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Restaurant Management Demo2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:37:05.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Restaurant Management Demo2\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Restaurant Management Demo2\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T11:13:41.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuItemController.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Controllers\\MenuItemController.cs",
+              "RelativeDocumentMoniker": "Restaurant Management Demo2\\Controllers\\MenuItemController.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Controllers\\MenuItemController.cs",
+              "RelativeToolTip": "Restaurant Management Demo2\\Controllers\\MenuItemController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T11:10:31.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuItemCreateViewModel.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Models\\Vewmodel\\MenuItemCreateViewModel.cs",
+              "RelativeDocumentMoniker": "Restaurant Management Demo2\\Models\\Vewmodel\\MenuItemCreateViewModel.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Models\\Vewmodel\\MenuItemCreateViewModel.cs",
+              "RelativeToolTip": "Restaurant Management Demo2\\Models\\Vewmodel\\MenuItemCreateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T12:21:58.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Views\\MenuItem\\Create.cshtml",
+              "RelativeDocumentMoniker": "Restaurant Management Demo2\\Views\\MenuItem\\Create.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Views\\MenuItem\\Create.cshtml",
+              "RelativeToolTip": "Restaurant Management Demo2\\Views\\MenuItem\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-09T11:20:34.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuItemRepo.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Models\\Repo\\RepoClas\\MenuItemRepo.cs",
+              "RelativeDocumentMoniker": "Restaurant Management Demo2\\Models\\Repo\\RepoClas\\MenuItemRepo.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Models\\Repo\\RepoClas\\MenuItemRepo.cs",
+              "RelativeToolTip": "Restaurant Management Demo2\\Models\\Repo\\RepoClas\\MenuItemRepo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:49:52.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "OrderViewModel.cs",
               "DocumentMoniker": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Models\\Vewmodel\\OrderViewModel.cs",
               "RelativeDocumentMoniker": "Restaurant Management Demo2\\Models\\Vewmodel\\OrderViewModel.cs",
@@ -237,31 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "Restaurant Management Demo2\\Controllers\\OrderController.cs",
-              "ToolTip": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "Restaurant Management Demo2\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T11:13:41.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MenuItemController.cs",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Controllers\\MenuItemController.cs",
-              "RelativeDocumentMoniker": "Restaurant Management Demo2\\Controllers\\MenuItemController.cs",
-              "ToolTip": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Controllers\\MenuItemController.cs",
-              "RelativeToolTip": "Restaurant Management Demo2\\Controllers\\MenuItemController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T11:10:31.594Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CategoryRepo.cs",
               "DocumentMoniker": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Models\\Repo\\RepoClas\\CategoryRepo.cs",
               "RelativeDocumentMoniker": "Restaurant Management Demo2\\Models\\Repo\\RepoClas\\CategoryRepo.cs",
@@ -273,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Views\\Order\\Create.cshtml",
               "RelativeDocumentMoniker": "Restaurant Management Demo2\\Views\\Order\\Create.cshtml",
@@ -297,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "MenuItem.cs",
               "DocumentMoniker": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Models\\MenuItem.cs",
               "RelativeDocumentMoniker": "Restaurant Management Demo2\\Models\\MenuItem.cs",
@@ -309,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Views\\Order\\Index.cshtml",
               "RelativeDocumentMoniker": "Restaurant Management Demo2\\Views\\Order\\Index.cshtml",
@@ -318,18 +327,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-09T11:17:46.425Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Restaurant Management Demo2\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\.net-school-projects-\\Restaurant Management Demo2\\Restaurant Management Demo2\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Restaurant Management Demo2\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T10:37:05.504Z"
             },
             {
               "$type": "Document",

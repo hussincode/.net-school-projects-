@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Hotel_Management_System.Models.VM.BookingRecordsVM>
+@{
+    ViewData["Title"] = "Booking Records";
+}
+
+<h2>Booking Records</h2>
+<a asp-action="Create" class="btn btn-primary">Create New Booking Record</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Check-in Date</th>
+            <th>Check-out Date</th>
+            <th>Room Number</th>
+            <th>Service Type</th>
+            <th>Created By (User)</th>
+            <th>Notes</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var record in Model)
+        {
+            <tr>
+                <td>@record.CheckInDate</td>
+                <td>@record.CheckOutDate</td>
+                <td>@record.RoomId</td>
+                <td>
+                    @if (record.BookingRecords != null && record.BookingRecords.Any())
+                    {
+                        @record.BookingRecords.First().Room?.Type
+                    }
+                </td>
+                <td>
+                    @if (record.BookingRecords != null && record.BookingRecords.Any())
+                    {
+                        @record.BookingRecords.First().Room?.User?.Name
+                    }
+                </td>
+                <td>@record.Notes</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@record.BookingRecordId" class="btn btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@record.BookingRecordId" class="btn btn-danger"
+                       onclick="return confirm('Are you sure you want to delete this booking record?');">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

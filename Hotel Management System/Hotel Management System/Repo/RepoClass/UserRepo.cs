@@ -44,4 +44,5 @@ namespace Hotel_Management_System.Repo.RepoClass
             _context.SaveChanges();
         }
     }
+
 }

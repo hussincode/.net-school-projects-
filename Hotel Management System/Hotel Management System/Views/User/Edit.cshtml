@@ -1,0 +1,33 @@
+﻿@model Hotel_Management_System.Models.User
+@{
+    ViewData["Title"] = "Edit User";
+}
+
+<h2>Edit User</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="UserId" />
+
+    <div class="form-group">
+        <label>Name</label>
+        <input asp-for="Name" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+        <label>Email</label>
+        <input asp-for="Email" class="form-control" type="email" required />
+    </div>
+
+    <div class="form-group">
+        <label>Password</label>
+        <input asp-for="Password" class="form-control" type="password" minlength="8" required />
+    </div>
+
+    <div class="form-group">
+        <label>Phone</label>
+        <input asp-for="Phone" class="form-control" pattern="\d{11}" required />
+    </div>
+
+    <button type="submit" class="btn btn-success">Update</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
