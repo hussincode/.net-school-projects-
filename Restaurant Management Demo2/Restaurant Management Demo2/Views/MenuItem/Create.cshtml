@@ -16,8 +16,8 @@
 
     <div>
         <label>Category</label>
-        @* <select asp-for="CategoryId" asp-items="@(new SelectList(Model.Categories, "CategoryId", "CategoryName"))"></select>
-        <span asp-validation-for="CategoryId"></span> *@
+        <select asp-for="CategoryId" asp-items="@(new SelectList(Model.Categories, "CategoryId", "CategoryName"))"></select>
+        <span asp-validation-for="CategoryId"></span>
     </div>
 
     <button type="submit">Save</button>
