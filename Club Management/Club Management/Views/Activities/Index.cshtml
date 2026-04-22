@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Club_Management.Models.ActivityModel>
+
+@{
+    ViewData["Title"] = "Activities List";
+}
+
+<div class="d-flex justify-content-between align-items-center">
+    <h2>Activities</h2>
+    <a asp-action="Create" class="btn btn-primary">Create New Activity</a>
+</div>
+
+<table class="table table-striped mt-3">
+    <thead>
+        <tr>
+            <th>Activity Name</th>
+            <th>duration</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Duration</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ActivityId" class="btn btn-sm btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@item.ActivityId"
+                       class="btn btn-sm btn-danger"
+                       onclick="return confirm('Are you sure you want to delete this?')">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\.net-school-projects-\\Attendance\\Attendance\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|d:\\.net-school-projects-\\attendance\\attendance\\attendance\\models\\attendancerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|solutionrelative:attendance\\models\\attendancerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|d:\\.net-school-projects-\\attendance\\attendance\\attendance\\models\\iattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|solutionrelative:attendance\\models\\iattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|d:\\.net-school-projects-\\attendance\\attendance\\attendance\\models\\attendancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|solutionrelative:attendance\\models\\attendancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|d:\\.net-school-projects-\\attendance\\attendance\\attendance\\models\\vm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|solutionrelative:attendance\\models\\vm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__Husseinhesham/Attendance/True/SqlTable/dbo.Attendances.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
@@ -18,10 +34,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|d:\\.net-school-projects-\\attendance\\attendance\\attendance\\views\\attendance\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|solutionrelative:attendance\\views\\attendance\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|d:\\.net-school-projects-\\attendance\\attendance\\attendance\\models\\vm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|solutionrelative:attendance\\models\\vm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|d:\\.net-school-projects-\\attendance\\attendance\\attendance\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -40,16 +52,8 @@
       "RelativeMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|solutionrelative:attendance\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|d:\\.net-school-projects-\\attendance\\attendance\\attendance\\models\\attendancerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|solutionrelative:attendance\\models\\attendancerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|d:\\.net-school-projects-\\attendance\\attendance\\attendance\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|solutionrelative:attendance\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|d:\\.net-school-projects-\\attendance\\attendance\\attendance\\models\\iattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|solutionrelative:attendance\\models\\iattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|d:\\.net-school-projects-\\attendance\\attendance\\attendance\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,10 +66,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|d:\\.net-school-projects-\\attendance\\attendance\\attendance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|solutionrelative:attendance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|d:\\.net-school-projects-\\attendance\\attendance\\attendance\\models\\attendancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|solutionrelative:attendance\\models\\attendancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08B988D6-8AC5-4AA3-A8AA-D077CFF270B0}|Attendance\\Attendance.csproj|d:\\.net-school-projects-\\attendance\\attendance\\attendance\\models\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -139,11 +139,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 285,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "dbo.Subjects [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__Husseinhesham/Attendance/True/SqlTable/dbo.Subjects.sql",
               "ToolTip": "dbo.Subjects [Data]",
@@ -153,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "dbo.Students [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__Husseinhesham/Attendance/True/SqlTable/dbo.Students.sql",
               "ToolTip": "dbo.Students [Data]",
@@ -163,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "dbo.Attendances [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__Husseinhesham/Attendance/True/SqlTable/dbo.Attendances.sql",
               "ToolTip": "dbo.Attendances [Data]",
@@ -173,26 +173,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "Attendancerepo.cs",
               "DocumentMoniker": "D:\\.net-school-projects-\\Attendance\\Attendance\\Attendance\\Models\\Attendancerepo.cs",
               "RelativeDocumentMoniker": "Attendance\\Models\\Attendancerepo.cs",
               "ToolTip": "D:\\.net-school-projects-\\Attendance\\Attendance\\Attendance\\Models\\Attendancerepo.cs",
               "RelativeToolTip": "Attendance\\Models\\Attendancerepo.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAWwC8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-06T09:29:44.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 1,
               "Title": "IAttendance.cs",
               "DocumentMoniker": "D:\\.net-school-projects-\\Attendance\\Attendance\\Attendance\\Models\\IAttendance.cs",
               "RelativeDocumentMoniker": "Attendance\\Models\\IAttendance.cs",
               "ToolTip": "D:\\.net-school-projects-\\Attendance\\Attendance\\Attendance\\Models\\IAttendance.cs",
               "RelativeToolTip": "Attendance\\Models\\IAttendance.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-06T09:19:15.088Z",
               "EditorCaption": ""
@@ -277,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\.net-school-projects-\\Attendance\\Attendance\\Attendance\\Views\\Attendance\\Edit.cshtml",
               "RelativeDocumentMoniker": "Attendance\\Views\\Attendance\\Edit.cshtml",
@@ -290,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\.net-school-projects-\\Attendance\\Attendance\\Attendance\\Views\\Attendance\\Create.cshtml",
               "RelativeDocumentMoniker": "Attendance\\Views\\Attendance\\Create.cshtml",
@@ -315,20 +315,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "VM.cs",
               "DocumentMoniker": "D:\\.net-school-projects-\\Attendance\\Attendance\\Attendance\\Models\\VM.cs",
               "RelativeDocumentMoniker": "Attendance\\Models\\VM.cs",
               "ToolTip": "D:\\.net-school-projects-\\Attendance\\Attendance\\Attendance\\Models\\VM.cs",
               "RelativeToolTip": "Attendance\\Models\\VM.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T11:18:41.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "AttendanceController.cs",
               "DocumentMoniker": "D:\\.net-school-projects-\\Attendance\\Attendance\\Attendance\\Controllers\\AttendanceController.cs",
               "RelativeDocumentMoniker": "Attendance\\Controllers\\AttendanceController.cs",
@@ -353,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\.net-school-projects-\\Attendance\\Attendance\\Attendance\\Views\\Subjects\\Create.cshtml",
               "RelativeDocumentMoniker": "Attendance\\Views\\Subjects\\Create.cshtml",
@@ -378,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "SubjectsController.cs",
               "DocumentMoniker": "D:\\.net-school-projects-\\Attendance\\Attendance\\Attendance\\Controllers\\SubjectsController.cs",
               "RelativeDocumentMoniker": "Attendance\\Controllers\\SubjectsController.cs",
@@ -415,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\.net-school-projects-\\Attendance\\Attendance\\Attendance\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Attendance\\Controllers\\HomeController.cs",
@@ -440,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "D:\\.net-school-projects-\\Attendance\\Attendance\\Attendance\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "Attendance\\Controllers\\StudentsController.cs",
@@ -477,20 +477,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 2,
               "Title": "Attendancecontext.cs",
               "DocumentMoniker": "D:\\.net-school-projects-\\Attendance\\Attendance\\Attendance\\Models\\Attendancecontext.cs",
               "RelativeDocumentMoniker": "Attendance\\Models\\Attendancecontext.cs",
               "ToolTip": "D:\\.net-school-projects-\\Attendance\\Attendance\\Attendance\\Models\\Attendancecontext.cs",
               "RelativeToolTip": "Attendance\\Models\\Attendancecontext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAcAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-05T10:18:17.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.net-school-projects-\\Attendance\\Attendance\\Attendance\\Program.cs",
               "RelativeDocumentMoniker": "Attendance\\Program.cs",
@@ -503,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\.net-school-projects-\\Attendance\\Attendance\\Attendance\\appsettings.json",
               "RelativeDocumentMoniker": "Attendance\\appsettings.json",
@@ -542,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\.net-school-projects-\\Attendance\\Attendance\\Attendance\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Attendance\\Models\\Student.cs",

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net-school-projects-\\School Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|d:\\.net-school-projects-\\school management\\school management\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|solutionrelative:school management\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|d:\\.net-school-projects-\\school management\\school management\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|solutionrelative:school management\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|d:\\.net-school-projects-\\school management\\school management\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|solutionrelative:school management\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 285,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "School Management\\Models\\Student.cs",
+              "ToolTip": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\Student.cs*",
+              "RelativeToolTip": "School Management\\Models\\Student.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:28:56.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "School Management\\Models\\Teacher.cs",
+              "ToolTip": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\Teacher.cs*",
+              "RelativeToolTip": "School Management\\Models\\Teacher.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:19:15.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\User.cs",
+              "RelativeDocumentMoniker": "School Management\\Models\\User.cs",
+              "ToolTip": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\User.cs*",
+              "RelativeToolTip": "School Management\\Models\\User.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:14:14.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

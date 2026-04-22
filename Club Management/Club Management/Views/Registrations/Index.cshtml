@@ -1,0 +1,34 @@
+﻿@model List<Club_Management.Models.Registration>
+
+<a href="/Registrations/Create" class="btn btn-primary mb-3">Create New Registration</a>
+<table class=" table table-bordered form-control alert ">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>MemberId</th>
+            <th>ClubId</th>
+            <th>RegistrationDate</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var registration in Model)
+        {
+            <tr>
+                <td>@registration.RegistrationId</td>
+                <td>@registration.RegistrationDate</td>
+                <td>@registration.Member.Name</td>
+                <td>@registration.Activity.Name</td>
+            </tr>
+            <tr>
+                <td>
+                    <a href="/Registrations/Edit" class="btn btn-primary">Edit</a>
+                    <a href="/Registrations/Delete" class="btn btn-primary">Delete</a>
+
+                </td>
+            </tr>
+
+        }
+      
+</table>
+

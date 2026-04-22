@@ -1,0 +1,23 @@
+﻿@model List<Club_Management.Models.Member>
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Phone</th>
+        <th>Actions</th>
+    </tr>
+    <tr>
+        @foreach(var member in Model)
+        {
+            <td>@member.MemberId</td>
+            <td>@member.Name</td>
+            <td>@member.PhoneNumber</td>
+        }
+)
+        <td>
+            <a href="/Members/Edit" class="btn btn-primary">Edit</a>
+            <a href="/Members/Delete" class="btn btn-primary">Delete</a>
+        </td>
+    </tr>
+</table>

@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net-school-projects-\\canten\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|d:\\.net-school-projects-\\canten\\canten\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|solutionrelative:canten\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|d:\\.net-school-projects-\\canten\\canten\\repo\\repoclass\\staffrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|solutionrelative:canten\\repo\\repoclass\\staffrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|d:\\.net-school-projects-\\canten\\canten\\repo\\repointerface\\istaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|solutionrelative:canten\\repo\\repointerface\\istaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|d:\\.net-school-projects-\\canten\\canten\\repo\\repointerface\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|solutionrelative:canten\\repo\\repointerface\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|d:\\.net-school-projects-\\canten\\canten\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|solutionrelative:canten\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|d:\\.net-school-projects-\\canten\\canten\\repo\\repoclass\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|solutionrelative:canten\\repo\\repoclass\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|d:\\.net-school-projects-\\canten\\canten\\repo\\repointerface\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|solutionrelative:canten\\repo\\repointerface\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|d:\\.net-school-projects-\\canten\\canten\\repo\\repointerface\\ifooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|solutionrelative:canten\\repo\\repointerface\\ifooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|d:\\.net-school-projects-\\canten\\canten\\canten.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|solutionrelative:canten\\canten.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net-school-projects-\\canten\\canten\\Migrations\\20260422125426_uu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:canten\\Migrations\\20260422125426_uu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|d:\\.net-school-projects-\\canten\\canten\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|solutionrelative:canten\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|d:\\.net-school-projects-\\canten\\canten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|solutionrelative:canten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|d:\\.net-school-projects-\\canten\\canten\\models\\canteencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|solutionrelative:canten\\models\\canteencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|d:\\.net-school-projects-\\canten\\canten\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|solutionrelative:canten\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|d:\\.net-school-projects-\\canten\\canten\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E28F45B-49EB-41ED-A6A3-251EDF6479C6}|canten\\canten.csproj|solutionrelative:canten\\models\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaffRepo.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\canten\\canten\\Repo\\RepoClass\\StaffRepo.cs",
+              "RelativeDocumentMoniker": "canten\\Repo\\RepoClass\\StaffRepo.cs",
+              "ToolTip": "D:\\.net-school-projects-\\canten\\canten\\Repo\\RepoClass\\StaffRepo.cs",
+              "RelativeToolTip": "canten\\Repo\\RepoClass\\StaffRepo.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwBwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:07:53.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\canten\\canten\\Repo\\RepoClass\\UserRepo.cs",
+              "RelativeDocumentMoniker": "canten\\Repo\\RepoClass\\UserRepo.cs",
+              "ToolTip": "D:\\.net-school-projects-\\canten\\canten\\Repo\\RepoClass\\UserRepo.cs",
+              "RelativeToolTip": "canten\\Repo\\RepoClass\\UserRepo.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:04:14.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrder.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\canten\\canten\\Repo\\RepoInterface\\IOrder.cs",
+              "RelativeDocumentMoniker": "canten\\Repo\\RepoInterface\\IOrder.cs",
+              "ToolTip": "D:\\.net-school-projects-\\canten\\canten\\Repo\\RepoInterface\\IOrder.cs",
+              "RelativeToolTip": "canten\\Repo\\RepoInterface\\IOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:03:07.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFoodItem.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\canten\\canten\\Repo\\RepoInterface\\IFoodItem.cs",
+              "RelativeDocumentMoniker": "canten\\Repo\\RepoInterface\\IFoodItem.cs",
+              "ToolTip": "D:\\.net-school-projects-\\canten\\canten\\Repo\\RepoInterface\\IFoodItem.cs",
+              "RelativeToolTip": "canten\\Repo\\RepoInterface\\IFoodItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:02:05.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStaff.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\canten\\canten\\Repo\\RepoInterface\\IStaff.cs",
+              "RelativeDocumentMoniker": "canten\\Repo\\RepoInterface\\IStaff.cs",
+              "ToolTip": "D:\\.net-school-projects-\\canten\\canten\\Repo\\RepoInterface\\IStaff.cs",
+              "RelativeToolTip": "canten\\Repo\\RepoInterface\\IStaff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:01:44.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\canten\\canten\\Repo\\RepoInterface\\IUser.cs",
+              "RelativeDocumentMoniker": "canten\\Repo\\RepoInterface\\IUser.cs",
+              "ToolTip": "D:\\.net-school-projects-\\canten\\canten\\Repo\\RepoInterface\\IUser.cs",
+              "RelativeToolTip": "canten\\Repo\\RepoInterface\\IUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T13:00:55.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "canten",
+              "DocumentMoniker": "D:\\.net-school-projects-\\canten\\canten\\canten.csproj",
+              "RelativeDocumentMoniker": "canten\\canten.csproj",
+              "ToolTip": "D:\\.net-school-projects-\\canten\\canten\\canten.csproj",
+              "RelativeToolTip": "canten\\canten.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-22T12:54:52.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260422125426_uu.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\canten\\canten\\Migrations\\20260422125426_uu.cs",
+              "RelativeDocumentMoniker": "canten\\Migrations\\20260422125426_uu.cs",
+              "ToolTip": "D:\\.net-school-projects-\\canten\\canten\\Migrations\\20260422125426_uu.cs",
+              "RelativeToolTip": "canten\\Migrations\\20260422125426_uu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:54:26.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\canten\\canten\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "canten\\Models\\Staff.cs",
+              "ToolTip": "D:\\.net-school-projects-\\canten\\canten\\Models\\Staff.cs",
+              "RelativeToolTip": "canten\\Models\\Staff.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:29:32.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\canten\\canten\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "canten\\Models\\Order.cs",
+              "ToolTip": "D:\\.net-school-projects-\\canten\\canten\\Models\\Order.cs",
+              "RelativeToolTip": "canten\\Models\\Order.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:35:00.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\canten\\canten\\Program.cs",
+              "RelativeDocumentMoniker": "canten\\Program.cs",
+              "ToolTip": "D:\\.net-school-projects-\\canten\\canten\\Program.cs",
+              "RelativeToolTip": "canten\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:50:54.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.net-school-projects-\\canten\\canten\\appsettings.json",
+              "RelativeDocumentMoniker": "canten\\appsettings.json",
+              "ToolTip": "D:\\.net-school-projects-\\canten\\canten\\appsettings.json",
+              "RelativeToolTip": "canten\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-22T12:49:15.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CanteenContext.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\canten\\canten\\Models\\CanteenContext.cs",
+              "RelativeDocumentMoniker": "canten\\Models\\CanteenContext.cs",
+              "ToolTip": "D:\\.net-school-projects-\\canten\\canten\\Models\\CanteenContext.cs",
+              "RelativeToolTip": "canten\\Models\\CanteenContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA/wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:42:39.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FoodItem.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\canten\\canten\\Models\\FoodItem.cs",
+              "RelativeDocumentMoniker": "canten\\Models\\FoodItem.cs",
+              "ToolTip": "D:\\.net-school-projects-\\canten\\canten\\Models\\FoodItem.cs",
+              "RelativeToolTip": "canten\\Models\\FoodItem.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:33:12.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\canten\\canten\\Models\\User.cs",
+              "RelativeDocumentMoniker": "canten\\Models\\User.cs",
+              "ToolTip": "D:\\.net-school-projects-\\canten\\canten\\Models\\User.cs",
+              "RelativeToolTip": "canten\\Models\\User.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:26:02.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

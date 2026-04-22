@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net-school-projects-\\Cinema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|d:\\.net-school-projects-\\cinema\\cinema\\repo\\repointerface\\ishowtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|solutionrelative:cinema\\repo\\repointerface\\ishowtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|d:\\.net-school-projects-\\cinema\\cinema\\repo\\repointerface\\ihall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|solutionrelative:cinema\\repo\\repointerface\\ihall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|d:\\.net-school-projects-\\cinema\\cinema\\repo\\repointerface\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|solutionrelative:cinema\\repo\\repointerface\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|d:\\.net-school-projects-\\cinema\\cinema\\repo\\repointerface\\imovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|solutionrelative:cinema\\repo\\repointerface\\imovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|d:\\.net-school-projects-\\cinema\\cinema\\models\\vm\\showtimesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\vm\\showtimesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|d:\\.net-school-projects-\\cinema\\cinema\\models\\vm\\bookingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\vm\\bookingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|d:\\.net-school-projects-\\cinema\\cinema\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|d:\\.net-school-projects-\\cinema\\cinema\\models\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\showtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|d:\\.net-school-projects-\\cinema\\cinema\\models\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\hall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|d:\\.net-school-projects-\\cinema\\cinema\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|d:\\.net-school-projects-\\cinema\\cinema\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|d:\\.net-school-projects-\\cinema\\cinema\\cinema.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|solutionrelative:cinema\\cinema.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|d:\\.net-school-projects-\\cinema\\cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|solutionrelative:cinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|d:\\.net-school-projects-\\cinema\\cinema\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|solutionrelative:cinema\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|d:\\.net-school-projects-\\cinema\\cinema\\models\\cinemacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE653946-B732-49D3-9F87-3C52E48EB814}|Cinema\\Cinema.csproj|solutionrelative:cinema\\models\\cinemacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 285,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IShowtime.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Cinema\\Cinema\\Repo\\RepoInterface\\IShowtime.cs",
+              "RelativeDocumentMoniker": "Cinema\\Repo\\RepoInterface\\IShowtime.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Cinema\\Cinema\\Repo\\RepoInterface\\IShowtime.cs",
+              "RelativeToolTip": "Cinema\\Repo\\RepoInterface\\IShowtime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T11:09:03.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IHall.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Cinema\\Cinema\\Repo\\RepoInterface\\IHall.cs",
+              "RelativeDocumentMoniker": "Cinema\\Repo\\RepoInterface\\IHall.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Cinema\\Cinema\\Repo\\RepoInterface\\IHall.cs",
+              "RelativeToolTip": "Cinema\\Repo\\RepoInterface\\IHall.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T11:03:35.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Cinema\\Cinema\\Repo\\RepoInterface\\IUser.cs",
+              "RelativeDocumentMoniker": "Cinema\\Repo\\RepoInterface\\IUser.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Cinema\\Cinema\\Repo\\RepoInterface\\IUser.cs",
+              "RelativeToolTip": "Cinema\\Repo\\RepoInterface\\IUser.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T11:02:20.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingVM.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Cinema\\Cinema\\Models\\VM\\BookingVM.cs",
+              "RelativeDocumentMoniker": "Cinema\\Models\\VM\\BookingVM.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Cinema\\Cinema\\Models\\VM\\BookingVM.cs",
+              "RelativeToolTip": "Cinema\\Models\\VM\\BookingVM.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T10:44:50.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowtimesVM.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Cinema\\Cinema\\Models\\VM\\ShowtimesVM.cs",
+              "RelativeDocumentMoniker": "Cinema\\Models\\VM\\ShowtimesVM.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Cinema\\Cinema\\Models\\VM\\ShowtimesVM.cs",
+              "RelativeToolTip": "Cinema\\Models\\VM\\ShowtimesVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T10:32:52.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMovie.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Cinema\\Cinema\\Repo\\RepoInterface\\IMovie.cs",
+              "RelativeDocumentMoniker": "Cinema\\Repo\\RepoInterface\\IMovie.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Cinema\\Cinema\\Repo\\RepoInterface\\IMovie.cs",
+              "RelativeToolTip": "Cinema\\Repo\\RepoInterface\\IMovie.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T10:30:25.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cinema",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Cinema\\Cinema\\Cinema.csproj",
+              "RelativeDocumentMoniker": "Cinema\\Cinema.csproj",
+              "ToolTip": "D:\\.net-school-projects-\\Cinema\\Cinema\\Cinema.csproj",
+              "RelativeToolTip": "Cinema\\Cinema.csproj",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAnwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-19T10:28:15.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Cinema\\Cinema\\Program.cs",
+              "RelativeDocumentMoniker": "Cinema\\Program.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Cinema\\Cinema\\Program.cs",
+              "RelativeToolTip": "Cinema\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T10:27:39.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Showtime.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Cinema\\Cinema\\Models\\Showtime.cs",
+              "RelativeDocumentMoniker": "Cinema\\Models\\Showtime.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Cinema\\Cinema\\Models\\Showtime.cs",
+              "RelativeToolTip": "Cinema\\Models\\Showtime.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T10:04:08.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Hall.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Cinema\\Cinema\\Models\\Hall.cs",
+              "RelativeDocumentMoniker": "Cinema\\Models\\Hall.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Cinema\\Cinema\\Models\\Hall.cs",
+              "RelativeToolTip": "Cinema\\Models\\Hall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T10:03:35.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Cinema\\Cinema\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Cinema\\Models\\User.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Cinema\\Cinema\\Models\\User.cs",
+              "RelativeToolTip": "Cinema\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T10:02:54.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Cinema\\Cinema\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Cinema\\Models\\Booking.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Cinema\\Cinema\\Models\\Booking.cs",
+              "RelativeToolTip": "Cinema\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T10:05:11.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Cinema\\Cinema\\appsettings.json",
+              "RelativeDocumentMoniker": "Cinema\\appsettings.json",
+              "ToolTip": "D:\\.net-school-projects-\\Cinema\\Cinema\\appsettings.json",
+              "RelativeToolTip": "Cinema\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-19T10:27:26.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Cinema\\Cinema\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Cinema\\Models\\Movie.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Cinema\\Cinema\\Models\\Movie.cs",
+              "RelativeToolTip": "Cinema\\Models\\Movie.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T10:01:10.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cinemacontext.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Cinema\\Cinema\\Models\\Cinemacontext.cs",
+              "RelativeDocumentMoniker": "Cinema\\Models\\Cinemacontext.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Cinema\\Cinema\\Models\\Cinemacontext.cs",
+              "RelativeToolTip": "Cinema\\Models\\Cinemacontext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T10:26:14.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

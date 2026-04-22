@@ -1,0 +1,577 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net-school-projects-\\Club Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\controllers\\activitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\controllers\\activitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\repo\\repoclass\\activitiesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\repo\\repoclass\\activitiesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\views\\activities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\views\\activities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\views\\members\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\views\\members\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\views\\activities\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\views\\activities\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\views\\activities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\views\\activities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\views\\members\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\views\\members\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\views\\registrations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\views\\registrations\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\views\\registrations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\views\\registrations\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\repo\\repointerface\\iregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\repo\\repointerface\\iregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\repo\\repointerface\\imember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\repo\\repointerface\\imember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\controllers\\registrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\controllers\\registrationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\views\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\views\\members\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\views\\registrations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\views\\registrations\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\repo\\repoclass\\registrationsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\repo\\repoclass\\registrationsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\models\\vm\\registrationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\models\\vm\\registrationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\repo\\repoclass\\membersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\repo\\repoclass\\membersrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net-school-projects-\\Club Management\\Club Management\\Migrations\\20260415082451_uu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Club Management\\Migrations\\20260415082451_uu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net-school-projects-\\Club Management\\Club Management\\Migrations\\20260415082301_iitii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Club Management\\Migrations\\20260415082301_iitii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net-school-projects-\\Club Management\\Club Management\\Migrations\\20260415082202_Initas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Club Management\\Migrations\\20260415082202_Initas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net-school-projects-\\Club Management\\Club Management\\Migrations\\20260415082120_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Club Management\\Migrations\\20260415082120_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__Husseinhesham/Club/True/SqlTable/dbo.Registrations.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\repo\\repointerface\\iactivities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\repo\\repointerface\\iactivities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\models\\clubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\models\\clubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net-school-projects-\\Club Management\\Club Management\\Migrations\\20260415072348_uu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Club Management\\Migrations\\20260415072348_uu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|d:\\.net-school-projects-\\club management\\club management\\club management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{187DAC13-6FC0-4604-B905-E3E4DDC32C30}|Club Management\\Club Management.csproj|solutionrelative:club management\\club management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 285,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Views\\Activities\\Create.cshtml",
+              "RelativeDocumentMoniker": "Club Management\\Views\\Activities\\Create.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Views\\Activities\\Create.cshtml",
+              "RelativeToolTip": "Club Management\\Views\\Activities\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-15T09:40:32.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "edit.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Views\\Registrations\\edit.cshtml",
+              "RelativeDocumentMoniker": "Club Management\\Views\\Registrations\\edit.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Views\\Registrations\\edit.cshtml",
+              "RelativeToolTip": "Club Management\\Views\\Registrations\\edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-15T09:25:06.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Views\\Members\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Club Management\\Views\\Members\\Edit.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Views\\Members\\Edit.cshtml",
+              "RelativeToolTip": "Club Management\\Views\\Members\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-15T09:35:16.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Models\\Activity.cs",
+              "RelativeDocumentMoniker": "Club Management\\Models\\Activity.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Models\\Activity.cs",
+              "RelativeToolTip": "Club Management\\Models\\Activity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T07:08:16.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Views\\Activities\\Index.cshtml",
+              "RelativeDocumentMoniker": "Club Management\\Views\\Activities\\Index.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Views\\Activities\\Index.cshtml",
+              "RelativeToolTip": "Club Management\\Views\\Activities\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-15T09:38:50.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Views\\Members\\Create.cshtml",
+              "RelativeDocumentMoniker": "Club Management\\Views\\Members\\Create.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Views\\Members\\Create.cshtml",
+              "RelativeToolTip": "Club Management\\Views\\Members\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-15T09:30:31.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActivitiesRepo.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Repo\\RepoClass\\ActivitiesRepo.cs",
+              "RelativeDocumentMoniker": "Club Management\\Repo\\RepoClass\\ActivitiesRepo.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Repo\\RepoClass\\ActivitiesRepo.cs",
+              "RelativeToolTip": "Club Management\\Repo\\RepoClass\\ActivitiesRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T07:25:50.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActivitiesController.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Controllers\\ActivitiesController.cs",
+              "RelativeDocumentMoniker": "Club Management\\Controllers\\ActivitiesController.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Controllers\\ActivitiesController.cs",
+              "RelativeToolTip": "Club Management\\Controllers\\ActivitiesController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T07:33:03.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Views\\Activities\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Club Management\\Views\\Activities\\Edit.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Views\\Activities\\Edit.cshtml",
+              "RelativeToolTip": "Club Management\\Views\\Activities\\Edit.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-15T09:46:29.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Views\\Registrations\\Create.cshtml",
+              "RelativeDocumentMoniker": "Club Management\\Views\\Registrations\\Create.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Views\\Registrations\\Create.cshtml",
+              "RelativeToolTip": "Club Management\\Views\\Registrations\\Create.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-15T08:06:31.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRegistrations.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Repo\\RepoInterface\\IRegistrations.cs",
+              "RelativeDocumentMoniker": "Club Management\\Repo\\RepoInterface\\IRegistrations.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Repo\\RepoInterface\\IRegistrations.cs",
+              "RelativeToolTip": "Club Management\\Repo\\RepoInterface\\IRegistrations.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAnwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T07:13:57.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMember.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Repo\\RepoInterface\\IMember.cs",
+              "RelativeDocumentMoniker": "Club Management\\Repo\\RepoInterface\\IMember.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Repo\\RepoInterface\\IMember.cs",
+              "RelativeToolTip": "Club Management\\Repo\\RepoInterface\\IMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T07:13:24.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "Club Management\\Controllers\\MembersController.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "Club Management\\Controllers\\MembersController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T07:36:11.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistrationsController.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Controllers\\RegistrationsController.cs",
+              "RelativeDocumentMoniker": "Club Management\\Controllers\\RegistrationsController.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Controllers\\RegistrationsController.cs",
+              "RelativeToolTip": "Club Management\\Controllers\\RegistrationsController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwDUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T07:41:13.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Club Management\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Club Management\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwBwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T07:19:48.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Views\\Members\\Index.cshtml",
+              "RelativeDocumentMoniker": "Club Management\\Views\\Members\\Index.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Views\\Members\\Index.cshtml",
+              "RelativeToolTip": "Club Management\\Views\\Members\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-15T09:27:09.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegistrationVM.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Models\\VM\\RegistrationVM.cs",
+              "RelativeDocumentMoniker": "Club Management\\Models\\VM\\RegistrationVM.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Models\\VM\\RegistrationVM.cs",
+              "RelativeToolTip": "Club Management\\Models\\VM\\RegistrationVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T07:21:38.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegistrationsRepo.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Repo\\RepoClass\\RegistrationsRepo.cs",
+              "RelativeDocumentMoniker": "Club Management\\Repo\\RepoClass\\RegistrationsRepo.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Repo\\RepoClass\\RegistrationsRepo.cs",
+              "RelativeToolTip": "Club Management\\Repo\\RepoClass\\RegistrationsRepo.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T07:29:30.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Views\\Registrations\\Index.cshtml",
+              "RelativeDocumentMoniker": "Club Management\\Views\\Registrations\\Index.cshtml",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Views\\Registrations\\Index.cshtml",
+              "RelativeToolTip": "Club Management\\Views\\Registrations\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-15T07:44:55.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "Club Management\\Models\\Registration.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Models\\Registration.cs",
+              "RelativeToolTip": "Club Management\\Models\\Registration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T07:08:51.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MembersRepo.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Repo\\RepoClass\\MembersRepo.cs",
+              "RelativeDocumentMoniker": "Club Management\\Repo\\RepoClass\\MembersRepo.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Repo\\RepoClass\\MembersRepo.cs",
+              "RelativeToolTip": "Club Management\\Repo\\RepoClass\\MembersRepo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T07:28:37.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20260415082202_Initas.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Migrations\\20260415082202_Initas.cs",
+              "RelativeDocumentMoniker": "Club Management\\Migrations\\20260415082202_Initas.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Migrations\\20260415082202_Initas.cs",
+              "RelativeToolTip": "Club Management\\Migrations\\20260415082202_Initas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T08:22:03.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20260415082301_iitii.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Migrations\\20260415082301_iitii.cs",
+              "RelativeDocumentMoniker": "Club Management\\Migrations\\20260415082301_iitii.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Migrations\\20260415082301_iitii.cs",
+              "RelativeToolTip": "Club Management\\Migrations\\20260415082301_iitii.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T08:23:01.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20260415082451_uu.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Migrations\\20260415082451_uu.cs",
+              "RelativeDocumentMoniker": "Club Management\\Migrations\\20260415082451_uu.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Migrations\\20260415082451_uu.cs",
+              "RelativeToolTip": "Club Management\\Migrations\\20260415082451_uu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T08:24:51.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20260415082120_Init.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Migrations\\20260415082120_Init.cs",
+              "RelativeDocumentMoniker": "Club Management\\Migrations\\20260415082120_Init.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Migrations\\20260415082120_Init.cs",
+              "RelativeToolTip": "Club Management\\Migrations\\20260415082120_Init.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T08:21:21.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\appsettings.json",
+              "RelativeDocumentMoniker": "Club Management\\appsettings.json",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\appsettings.json",
+              "RelativeToolTip": "Club Management\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-15T07:18:04.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "dbo.Registrations [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__Husseinhesham/Club/True/SqlTable/dbo.Registrations.sql",
+              "ToolTip": "dbo.Registrations [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-04-15T08:18:41.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Program.cs",
+              "RelativeDocumentMoniker": "Club Management\\Program.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Program.cs",
+              "RelativeToolTip": "Club Management\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T07:18:41.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20260415072348_uu.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Migrations\\20260415072348_uu.cs",
+              "RelativeDocumentMoniker": "Club Management\\Migrations\\20260415072348_uu.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Migrations\\20260415072348_uu.cs",
+              "RelativeToolTip": "Club Management\\Migrations\\20260415072348_uu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T07:23:48.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ClubContext.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Models\\ClubContext.cs",
+              "RelativeDocumentMoniker": "Club Management\\Models\\ClubContext.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Models\\ClubContext.cs",
+              "RelativeToolTip": "Club Management\\Models\\ClubContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA2wAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T07:14:54.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IActivities.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Repo\\RepoInterface\\IActivities.cs",
+              "RelativeDocumentMoniker": "Club Management\\Repo\\RepoInterface\\IActivities.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Repo\\RepoInterface\\IActivities.cs",
+              "RelativeToolTip": "Club Management\\Repo\\RepoInterface\\IActivities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T07:13:38.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "Club Management\\Models\\Member.cs",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Models\\Member.cs",
+              "RelativeToolTip": "Club Management\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T07:08:30.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Club Management",
+              "DocumentMoniker": "D:\\.net-school-projects-\\Club Management\\Club Management\\Club Management.csproj",
+              "RelativeDocumentMoniker": "Club Management\\Club Management.csproj",
+              "ToolTip": "D:\\.net-school-projects-\\Club Management\\Club Management\\Club Management.csproj",
+              "RelativeToolTip": "Club Management\\Club Management.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-15T07:12:32.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

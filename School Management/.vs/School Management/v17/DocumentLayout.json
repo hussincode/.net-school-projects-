@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net-school-projects-\\School Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|d:\\.net-school-projects-\\school management\\school management\\repo\\repoclass\\classrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|solutionrelative:school management\\repo\\repoclass\\classrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|d:\\.net-school-projects-\\school management\\school management\\repo\\repointerface\\iclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|solutionrelative:school management\\repo\\repointerface\\iclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|d:\\.net-school-projects-\\school management\\school management\\repo\\repointerface\\istudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|solutionrelative:school management\\repo\\repointerface\\istudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|d:\\.net-school-projects-\\school management\\school management\\repo\\repoclass\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|solutionrelative:school management\\repo\\repoclass\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|d:\\.net-school-projects-\\school management\\school management\\repo\\repointerface\\iteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|solutionrelative:school management\\repo\\repointerface\\iteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|d:\\.net-school-projects-\\school management\\school management\\repo\\repoclass\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|solutionrelative:school management\\repo\\repoclass\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|d:\\.net-school-projects-\\school management\\school management\\repo\\repoclass\\teacherrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|solutionrelative:school management\\repo\\repoclass\\teacherrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|d:\\.net-school-projects-\\school management\\school management\\repo\\repointerface\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|solutionrelative:school management\\repo\\repointerface\\iusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|d:\\.net-school-projects-\\school management\\school management\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|solutionrelative:school management\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|d:\\.net-school-projects-\\school management\\school management\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|solutionrelative:school management\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|d:\\.net-school-projects-\\school management\\school management\\school management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|solutionrelative:school management\\school management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|d:\\.net-school-projects-\\school management\\school management\\models\\vm\\classesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|solutionrelative:school management\\models\\vm\\classesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|d:\\.net-school-projects-\\school management\\school management\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|solutionrelative:school management\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|d:\\.net-school-projects-\\school management\\school management\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|solutionrelative:school management\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|d:\\.net-school-projects-\\school management\\school management\\models\\vm\\studentsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|solutionrelative:school management\\models\\vm\\studentsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|d:\\.net-school-projects-\\school management\\school management\\models\\vm\\teachersvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|solutionrelative:school management\\models\\vm\\teachersvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|d:\\.net-school-projects-\\school management\\school management\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|solutionrelative:school management\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|d:\\.net-school-projects-\\school management\\school management\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D0C3DE-F37D-4F2B-B5C1-CA4E4CC10CE3}|School Management\\School Management.csproj|solutionrelative:school management\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 285,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUsers.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\School Management\\School Management\\Repo\\RepoInterface\\IUsers.cs",
+              "RelativeDocumentMoniker": "School Management\\Repo\\RepoInterface\\IUsers.cs",
+              "ToolTip": "D:\\.net-school-projects-\\School Management\\School Management\\Repo\\RepoInterface\\IUsers.cs*",
+              "RelativeToolTip": "School Management\\Repo\\RepoInterface\\IUsers.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:51:09.765Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassRepo.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\School Management\\School Management\\Repo\\RepoClass\\ClassRepo.cs",
+              "RelativeDocumentMoniker": "School Management\\Repo\\RepoClass\\ClassRepo.cs",
+              "ToolTip": "D:\\.net-school-projects-\\School Management\\School Management\\Repo\\RepoClass\\ClassRepo.cs*",
+              "RelativeToolTip": "School Management\\Repo\\RepoClass\\ClassRepo.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:12:01.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\School Management\\School Management\\Repo\\RepoClass\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "School Management\\Repo\\RepoClass\\StudentRepo.cs",
+              "ToolTip": "D:\\.net-school-projects-\\School Management\\School Management\\Repo\\RepoClass\\StudentRepo.cs*",
+              "RelativeToolTip": "School Management\\Repo\\RepoClass\\StudentRepo.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowDMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:08:43.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeacherRepo.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\School Management\\School Management\\Repo\\RepoClass\\TeacherRepo.cs",
+              "RelativeDocumentMoniker": "School Management\\Repo\\RepoClass\\TeacherRepo.cs",
+              "ToolTip": "D:\\.net-school-projects-\\School Management\\School Management\\Repo\\RepoClass\\TeacherRepo.cs*",
+              "RelativeToolTip": "School Management\\Repo\\RepoClass\\TeacherRepo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T10:03:36.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\School Management\\School Management\\Repo\\RepoClass\\UserRepo.cs",
+              "RelativeDocumentMoniker": "School Management\\Repo\\RepoClass\\UserRepo.cs",
+              "ToolTip": "D:\\.net-school-projects-\\School Management\\School Management\\Repo\\RepoClass\\UserRepo.cs*",
+              "RelativeToolTip": "School Management\\Repo\\RepoClass\\UserRepo.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:55:12.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITeachers.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\School Management\\School Management\\Repo\\RepoInterface\\ITeachers.cs",
+              "RelativeDocumentMoniker": "School Management\\Repo\\RepoInterface\\ITeachers.cs",
+              "ToolTip": "D:\\.net-school-projects-\\School Management\\School Management\\Repo\\RepoInterface\\ITeachers.cs*",
+              "RelativeToolTip": "School Management\\Repo\\RepoInterface\\ITeachers.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:50:20.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudents.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\School Management\\School Management\\Repo\\RepoInterface\\IStudents.cs",
+              "RelativeDocumentMoniker": "School Management\\Repo\\RepoInterface\\IStudents.cs",
+              "ToolTip": "D:\\.net-school-projects-\\School Management\\School Management\\Repo\\RepoInterface\\IStudents.cs*",
+              "RelativeToolTip": "School Management\\Repo\\RepoInterface\\IStudents.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:49:40.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IClasses.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\School Management\\School Management\\Repo\\RepoInterface\\IClasses.cs",
+              "RelativeDocumentMoniker": "School Management\\Repo\\RepoInterface\\IClasses.cs",
+              "ToolTip": "D:\\.net-school-projects-\\School Management\\School Management\\Repo\\RepoInterface\\IClasses.cs*",
+              "RelativeToolTip": "School Management\\Repo\\RepoInterface\\IClasses.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:48:03.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "School Management",
+              "DocumentMoniker": "D:\\.net-school-projects-\\School Management\\School Management\\School Management.csproj",
+              "RelativeDocumentMoniker": "School Management\\School Management.csproj",
+              "ToolTip": "D:\\.net-school-projects-\\School Management\\School Management\\School Management.csproj*",
+              "RelativeToolTip": "School Management\\School Management.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-20T09:46:09.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ClassesVM.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\VM\\ClassesVM.cs",
+              "RelativeDocumentMoniker": "School Management\\Models\\VM\\ClassesVM.cs",
+              "ToolTip": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\VM\\ClassesVM.cs*",
+              "RelativeToolTip": "School Management\\Models\\VM\\ClassesVM.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:42:42.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "School Management\\Models\\Teacher.cs",
+              "ToolTip": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\Teacher.cs*",
+              "RelativeToolTip": "School Management\\Models\\Teacher.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:19:15.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentsVM.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\VM\\StudentsVM.cs",
+              "RelativeDocumentMoniker": "School Management\\Models\\VM\\StudentsVM.cs",
+              "ToolTip": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\VM\\StudentsVM.cs*",
+              "RelativeToolTip": "School Management\\Models\\VM\\StudentsVM.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:30:43.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\User.cs",
+              "RelativeDocumentMoniker": "School Management\\Models\\User.cs",
+              "ToolTip": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\User.cs*",
+              "RelativeToolTip": "School Management\\Models\\User.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:14:14.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TeachersVM.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\VM\\TeachersVM.cs",
+              "RelativeDocumentMoniker": "School Management\\Models\\VM\\TeachersVM.cs",
+              "ToolTip": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\VM\\TeachersVM.cs*",
+              "RelativeToolTip": "School Management\\Models\\VM\\TeachersVM.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:29:34.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "School Management\\Models\\SchoolContext.cs",
+              "ToolTip": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\SchoolContext.cs*",
+              "RelativeToolTip": "School Management\\Models\\SchoolContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:21:55.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "School Management\\Models\\Class.cs",
+              "ToolTip": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\Class.cs*",
+              "RelativeToolTip": "School Management\\Models\\Class.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:16:09.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "School Management\\Models\\Student.cs",
+              "ToolTip": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\Student.cs*",
+              "RelativeToolTip": "School Management\\Models\\Student.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T08:28:56.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "School Management\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\.net-school-projects-\\School Management\\School Management\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "School Management\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T09:26:15.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
